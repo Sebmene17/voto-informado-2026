@@ -1,0 +1,1790 @@
+{
+  "version": "1.0",
+  "fecha_generacion": "2026-05-29",
+  "descripcion": "Voto Informado 2026 — Datos consolidados de los 5 candidatos presidenciales para la primera vuelta del 31 de mayo de 2026.",
+  "ejes_tematicos_orden": [
+    "economia_e_impuestos",
+    "seguridad_y_paz",
+    "salud",
+    "educacion",
+    "medio_ambiente",
+    "anticorrupcion_e_instituciones",
+    "relaciones_internacionales",
+    "vivienda_y_campo"
+  ],
+  "ejes_tematicos_labels": {
+    "economia_e_impuestos": "Economía e impuestos",
+    "seguridad_y_paz": "Seguridad y paz",
+    "salud": "Salud",
+    "educacion": "Educación",
+    "medio_ambiente": "Medio ambiente",
+    "anticorrupcion_e_instituciones": "Anticorrupción e instituciones",
+    "relaciones_internacionales": "Relaciones internacionales",
+    "vivienda_y_campo": "Vivienda y campo"
+  },
+  "candidatos": [
+    {
+      "id": "cepeda",
+      "candidato": {
+        "nombre": "Iván Cepeda Castro",
+        "partido": "Pacto Histórico",
+        "posicion_politica": "Izquierda",
+        "formula_vice": "Aída Quilcué",
+        "eslogan": "El Poder de la Verdad",
+        "descripcion_perfil": ""
+      },
+      "ejes_tematicos": {
+        "economia_e_impuestos": {
+          "titulo": "Economía e impuestos",
+          "resumen": "Modelo de política social como centro del gobierno, en contraposición al neoliberalismo. Austeridad republicana del Estado con mayor gasto social. Persecución de la evasión fiscal y eliminación de intermediarios burocráticos.",
+          "propuestas": [
+            {
+              "propuesta": "Austeridad republicana: quien debe apretarse el cinturón es el gobierno, no el pueblo",
+              "detalle": "Reducción estricta del gasto suntuario del Estado: viajes, viáticos, vehículos oficiales, celebraciones. Los ahorros se redirigen al gasto social.",
+              "fuente": "Plan de gobierno pág. 172-178 ('Servir al pueblo con austeridad republicana')"
+            },
+            {
+              "propuesta": "Concentración del gasto en grandes programas sociales, sin crear nuevas instituciones",
+              "detalle": "Uso de instituciones existentes y coordinación interinstitucional. Depuración de clientelas en la administración pública.",
+              "fuente": "Plan de gobierno pág. 183"
+            },
+            {
+              "propuesta": "Creación de un Banco del Pueblo para acceso directo a recursos por parte de comunidades pobres",
+              "detalle": "Sistema financiero que le permita a los sectores más empobrecidos acceder directa y rápidamente a transferencias, sin intermediarios burocráticos.",
+              "fuente": "Plan de gobierno pág. 184-186"
+            },
+            {
+              "propuesta": "Persecución sin excepciones de la evasión fiscal",
+              "detalle": "Los impuestos como aporte solidario. Adopción de políticas para que la evasión quede en el pasado y cada contribución llegue al erario.",
+              "fuente": "Plan de gobierno pág. 188-193"
+            },
+            {
+              "propuesta": "Defensa y profundización de la reforma pensional",
+              "detalle": "Garantizar el acceso a pensión mínima para trabajadores informales que han trabajado toda su vida. Rechazo a la reversión de la reforma pensional.",
+              "fuente": "Plan de gobierno pág. 992-1000 (discurso Sincelejo)"
+            },
+            {
+              "propuesta": "Colombia como potencia mundial agroalimentaria",
+              "detalle": "Modelo económico basado en la economía rural, campesina y productiva como motor nacional, en sustitución del extractivismo.",
+              "fuente": "Plan de gobierno pág. 109-117 ('La revolución de los territorios')"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "seguridad_y_paz": {
+          "titulo": "Seguridad y paz",
+          "resumen": "Enfoque de 'seguridad humana' que combina paz negociada con los grupos armados, continuación del proceso de paz total, y atención a las causas estructurales de la violencia. Rechaza la ofensiva militar como solución principal.",
+          "propuestas": [
+            {
+              "propuesta": "Continuación y profundización de la Paz Total",
+              "detalle": "Mantenimiento de los diálogos de paz con todos los grupos armados activos. La paz negociada como alternativa a la militarización.",
+              "fuente": "Plan de gobierno pág. 341-360 ('La seguridad humana como componente esencial')"
+            },
+            {
+              "propuesta": "Seguridad humana como componente central del programa",
+              "detalle": "La seguridad no como represión militar, sino como garantía de derechos: agua, alimento, salud, vivienda, educación y protección de líderes sociales.",
+              "fuente": "Plan de gobierno pág. 341-358"
+            },
+            {
+              "propuesta": "Protección integral de líderes sociales y campesinos amenazados",
+              "detalle": "Derecho a la vida y protección de lideresas y líderes históricamente perseguidos por defender su tierra y su comunidad.",
+              "fuente": "Plan de gobierno pág. 792-796 (Revolución Agraria)"
+            },
+            {
+              "propuesta": "Verdad, justicia y reparación para víctimas del conflicto armado",
+              "detalle": "Las víctimas tendrán lugar privilegiado y central en el gobierno. Máximo nivel de verdad, justicia y reparación para víctimas del genocidio, masacres y desaparición forzada.",
+              "fuente": "Plan de gobierno pág. 2792-2798"
+            },
+            {
+              "propuesta": "Sustitución de cultivos ilícitos por economías productivas legales",
+              "detalle": "La reforma agraria como estrategia para transformar economías ilegales en productivas. Donde hubo cultivos ilícitos, habrá alimentos.",
+              "fuente": "Plan de gobierno pág. 759-765"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "salud": {
+          "titulo": "Salud",
+          "resumen": "Reforma democrática al sistema de salud para revertir la privatización de la Ley 100. El Estado debe recuperar el control sobre los recursos públicos de la salud, actualmente administrados por privados.",
+          "propuestas": [
+            {
+              "propuesta": "Reforma democrática al sistema de salud",
+              "detalle": "Revertir la privatización instaurada por la Ley 100 de 1993, que convirtió la salud en negocio. El Estado paga pero los privados administran recursos públicos, lo que debe cambiar.",
+              "fuente": "Plan de gobierno pág. 81-83"
+            },
+            {
+              "propuesta": "Salud como derecho fundamental, no como mercancía",
+              "detalle": "La privatización neoliberal de la salud es uno de los principales males que hay que corregir. Los recursos de salud no deben ser objeto de corrupción ni lucro privado.",
+              "fuente": "Plan de gobierno pág. 119-131"
+            },
+            {
+              "propuesta": "Recuperación de recursos de salud saqueados por la corrupción",
+              "detalle": "El Fondo de Reparación de Víctimas de la Corrupción destinará recursos recuperados a fortalecer el sistema de salud cuando este haya sido afectado por corrupción.",
+              "fuente": "Plan de gobierno pág. 2513-2518"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "educacion": {
+          "titulo": "Educación",
+          "resumen": "Transformación cultural profunda desde la educación para combatir el machismo, el racismo y la indiferencia. Educación como herramienta de la revolución ética y social.",
+          "propuestas": [
+            {
+              "propuesta": "Transformación cultural y educativa para combatir machismo, racismo y desprecio por los pobres",
+              "detalle": "La educación como eje de la revolución ética. Cambio en la cultura y la forma de ser del colombiano para superar la deshumanización producida por décadas de violencia.",
+              "fuente": "Plan de gobierno pág. 1027-1035"
+            },
+            {
+              "propuesta": "Educación para los pueblos indígenas, afrodescendientes y campesinos",
+              "detalle": "Reconocimiento de los pueblos indígenas y comunidades étnicas como sujetos de derechos con acceso pleno a educación en condiciones de igualdad.",
+              "fuente": "Plan de gobierno pág. 227-245"
+            },
+            {
+              "propuesta": "Derecho a la educación para mujeres y juventud campesina",
+              "detalle": "El Estado debe saldar la deuda histórica con mujeres y jóvenes campesinos garantizando acceso a educación en igualdad de condiciones.",
+              "fuente": "Plan de gobierno pág. 807"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "medio_ambiente": {
+          "titulo": "Medio ambiente",
+          "resumen": "Defensa de los territorios y la naturaleza como parte de la 'potencia mundial de la vida'. Acceso al agua como eje de la revolución agraria. Sustitución de economías extractivas ilegales.",
+          "propuestas": [
+            {
+              "propuesta": "Acceso al agua potable como eje de la revolución agraria y derecho fundamental",
+              "detalle": "Plan nacional para dotar a los municipios rurales de agua potable. El agua como eje de la revolución agraria y derecho inalienable de las comunidades.",
+              "fuente": "Plan de gobierno pág. 194-212 ('El acceso al agua como eje de la revolución agraria')"
+            },
+            {
+              "propuesta": "Colombia como 'potencia mundial de la vida': protección de biodiversidad y ecosistemas",
+              "detalle": "La riqueza natural de Colombia como activo estratégico de la nación, no como objeto de explotación. Defensa de territorios con justicia ambiental.",
+              "fuente": "Plan de gobierno pág. 272-276"
+            },
+            {
+              "propuesta": "Justicia ambiental y derechos de los animales",
+              "detalle": "Propuestas de bienestar animal enmarcadas en la Revolución Ética. Los animales y la justicia ambiental como parte del programa de transformación.",
+              "fuente": "Plan de gobierno pág. 421-425 ('Por los animales y por la justicia ambiental')"
+            },
+            {
+              "propuesta": "Defensa del territorio amazónico y el desarrollo territorial sostenible",
+              "detalle": "Propuestas específicas para el desarrollo sostenible de la Amazonia colombiana, protegiendo la biodiversidad y las comunidades que habitan ese territorio.",
+              "fuente": "Plan de gobierno pág. 410-414"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "anticorrupcion_e_instituciones": {
+          "titulo": "Anticorrupción e instituciones",
+          "resumen": "Sistema Nacional contra la Macrocorrupción con cinco pilares institucionales. Es la propuesta más desarrollada y estructurada del plan. Enfoque sistémico, no caso por caso.",
+          "propuestas": [
+            {
+              "propuesta": "Creación del Sistema Nacional contra la Macrocorrupción",
+              "detalle": "Arquitectura institucional coherente con cinco pilares: (1) transparencia y prevención, (2) investigación especializada, (3) juzgamiento con reparación, (4) presencia territorial, (5) movilización ciudadana.",
+              "fuente": "Plan de gobierno pág. 17-31 ('Primera propuesta: el Sistema Nacional contra la Macrocorrupción')"
+            },
+            {
+              "propuesta": "Unidad Nacional de Investigación de la Macrocorrupción en la Fiscalía",
+              "detalle": "Investiga cadenas de corrupción como sistemas, no caso por caso. Identifica aparatos y estructuras de macrocorrupción, sus jefes, patrones de criminalidad y mecanismos de lavado de activos.",
+              "fuente": "Plan de gobierno pág. 2496-2505"
+            },
+            {
+              "propuesta": "Fondo de Reparación de Víctimas de la Corrupción",
+              "detalle": "Canaliza recursos expropiados a corruptos para reparar daños a víctimas individuales, colectivas y a la sociedad. Cada peso recuperado se convierte en un derecho restituido.",
+              "fuente": "Plan de gobierno pág. 2513-2518"
+            },
+            {
+              "propuesta": "Portal Anticorrupción de Colombia (PACO) como plataforma abierta y preventiva",
+              "detalle": "Sistema de alertas tempranas articulando bases de datos, trazabilidad del gasto y señales de riesgo en tiempo real.",
+              "fuente": "Plan de gobierno pág. 2488-2494"
+            },
+            {
+              "propuesta": "Instancia especial de juzgamiento para corrupción sistémica",
+              "detalle": "Al más alto nivel posible. Las sentencias incluirán medidas de reparación integral. Se aplicarán metodologías de macrocriminalidad similares a las usadas para crímenes de lesa humanidad.",
+              "fuente": "Plan de gobierno pág. 2508-2512"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "relaciones_internacionales": {
+          "titulo": "Relaciones internacionales",
+          "resumen": "Política exterior autónoma, pacifista y solidaria con los migrantes colombianos. Multilateralismo y diplomacia de paz. Rechazo a la subordinación a potencias extranjeras.",
+          "propuestas": [
+            {
+              "propuesta": "Política exterior de paz, autónoma y solidaria con los migrantes",
+              "detalle": "Colombia como actor de paz en el escenario internacional. Política exterior que no esté subordinada a ninguna potencia y que defienda los derechos de los migrantes colombianos en el exterior.",
+              "fuente": "Plan de gobierno pág. 38-55 ('Por una política exterior de paz, autónoma y solidaria con los migrantes')"
+            },
+            {
+              "propuesta": "Soberanía territorial y rechazo al intervencionismo",
+              "detalle": "Defensa de la soberanía del territorio colombiano frente a cualquier forma de intervención extranjera.",
+              "fuente": "Plan de gobierno pág. 212-226 ('Por la soberanía de nuestro territorio')"
+            },
+            {
+              "propuesta": "Frente global contra la extrema derecha neofascista",
+              "detalle": "Colombia debe ser parte del movimiento global de fuerzas progresistas que enfrente el avance de la extrema derecha internacional.",
+              "fuente": "Plan de gobierno pág. 202-211"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "vivienda_y_campo": {
+          "titulo": "Vivienda y campo",
+          "resumen": "La revolución agraria como eje central del programa: redistribución, restitución y recuperación de tierras. Plan de vías terciarias, mercados campesinos y economía rural productiva.",
+          "propuestas": [
+            {
+              "propuesta": "Revolución Agraria: redistribución, restitución y recuperación de tierras",
+              "detalle": "Continuar y profundizar la reforma agraria. Redistribuir tierras fértiles concentradas y subutilizadas. Restituir tierras despojadas a comunidades campesinas víctimas de la violencia. Meta: superar el millón de hectáreas distribuidas.",
+              "fuente": "Plan de gobierno pág. 88-107 y 186-193"
+            },
+            {
+              "propuesta": "Reconocimiento del campesinado como sujeto constitucional de derechos",
+              "detalle": "Derecho a la vida, verdad, justicia, restitución de tierras, trabajo rural digno, participación política y pensión para trabajadores rurales.",
+              "fuente": "Plan de gobierno pág. 787-810"
+            },
+            {
+              "propuesta": "Plan nacional de vías terciarias para conectar el campo con las ciudades",
+              "detalle": "Infraestructura vial rural como condición para que la economía campesina llegue a los mercados urbanos.",
+              "fuente": "Plan de gobierno pág. 1067-1069"
+            },
+            {
+              "propuesta": "Revolución urbana para los territorios periféricos de las ciudades",
+              "detalle": "Políticas de igualdad sustantiva y superación de la pobreza en territorios urbanos marginales, donde llegan las familias campesinas desplazadas.",
+              "fuente": "Plan de gobierno pág. 61-80 y 318-330"
+            },
+            {
+              "propuesta": "Vivienda social pública, mejoramiento y arriendo social",
+              "detalle": "Énfasis en vivienda rural y campesina. La vivienda como derecho, no como negocio.",
+              "fuente": "Plan de gobierno (referencias a política de vivienda en discursos regionales)"
+            }
+          ],
+          "fuente_pagina": ""
+        }
+      },
+      "sapos_electorales": [
+        {
+          "sapo": "Plan de gobierno de 433 páginas con muchas propuestas sin fuente de financiación concreta",
+          "detalle": "El programa incluye más de 143 menciones al presidente Petro y una gran cantidad de propuestas que carecen de metas cuantificables, plazos y fuentes de financiación explícitas.",
+          "fuente": "Análisis de Cambio Colombia, 19 de abril de 2026"
+        },
+        {
+          "sapo": "Es el candidato de la continuidad del gobierno Petro, con todas las controversias que eso implica",
+          "detalle": "Su programa es explícitamente una profundización del gobierno de Gustavo Petro. Quienes tengan reservas con la gestión del gobierno actual las heredarán con Cepeda.",
+          "fuente": "Plan de gobierno pág. 709-723 y análisis de medios"
+        },
+        {
+          "sapo": "La reforma a la salud no especifica cómo se financiaría la transición del modelo actual",
+          "detalle": "Propone una reforma democrática al sistema de salud pero sin detallar el modelo de transición ni las fuentes de financiación del nuevo esquema.",
+          "fuente": "Plan de gobierno pág. 81-83"
+        },
+        {
+          "sapo": "Propuestas de alta complejidad institucional que exceden el ámbito del Ejecutivo",
+          "detalle": "El Sistema Nacional contra la Macrocorrupción, la reforma electoral y el cambio en el modelo antidrogas requieren debates en el Congreso con alta resistencia política.",
+          "fuente": "Análisis de Cambio Colombia, 19 de abril de 2026"
+        }
+      ],
+      "citas_textuales": [
+        {
+          "tema": "Economía / Modelo político",
+          "cita": "Mi debate no es con ellos. Mi discusión es con su verdadero jefe político: Álvaro Uribe Vélez. No vamos a distraernos con las figuras secundarias; que responda el titiritero, no sus marionetas.",
+          "contexto": "Refiriéndose a los candidatos de derecha durante un discurso en Popayán",
+          "fuente": "Plan de gobierno pág. 63-65"
+        },
+        {
+          "tema": "Economía",
+          "cita": "Quien debe apretarse el cinturón es el gobierno, no el pueblo.",
+          "contexto": "Sobre la austeridad republicana como principio de gobierno",
+          "fuente": "Plan de gobierno pág. 154"
+        },
+        {
+          "tema": "Seguridad / Campo",
+          "cita": "Donde antes hubo cultivos ilícitos, en mi gobierno habrá alimentos. Donde hubo exclusión, habrá justicia económica.",
+          "contexto": "Sobre la revolución agraria como alternativa a las economías ilegales",
+          "fuente": "Plan de gobierno pág. 763-765"
+        },
+        {
+          "tema": "Campo / Paz",
+          "cita": "Una revolución que no empuñará armas, sino siembra semillas, que no reparte balas sino tierra y esperanza, que no cultiva odio sino pan y justicia.",
+          "contexto": "Definiendo lo que entiende por Revolución Agraria ante campesinos de Sincelejo",
+          "fuente": "Plan de gobierno pág. 779"
+        },
+        {
+          "tema": "Paz / Víctimas",
+          "cita": "Si llego a ser presidente, en mi gobierno las víctimas van a tener un lugar privilegiado y central.",
+          "contexto": "Ante las Madres Buscadoras en Medellín",
+          "fuente": "Plan de gobierno pág. 2792"
+        }
+      ],
+      "promesas_vs_realidad": {
+        "aplica": true,
+        "cargo_previo": "Senador de la República — múltiples períodos",
+        "logros": [
+          "Demandó y derrotó judicialmente al expresidente Álvaro Uribe en el caso de presunto soborno a testigos",
+          "Impulsor de investigaciones sobre ejecuciones extrajudiciales ('falsos positivos') y paramilitarismo",
+          "Cofundador del movimiento de víctimas de crímenes de Estado"
+        ],
+        "criticas": [
+          "Como senador del Pacto Histórico, avaló reformas del gobierno Petro que tuvieron problemas de implementación (reforma a la salud, reforma a la educación)",
+          "Su rol legislativo fue más de control político y denuncia que de construcción de leyes con amplio respaldo"
+        ],
+        "fuente": "Registros del Congreso de la República y medios verificables"
+      },
+      "posiciones_test_afinidad": {
+        "economia": {
+          "pregunta": "¿Cuál debería ser el rol del Estado en la economía?",
+          "posicion": "A",
+          "descripcion": "El Estado debe liderar grandes programas sociales, controlar recursos públicos y perseguir la evasión fiscal. El modelo neoliberal de privatización ha fracasado.",
+          "cita_respaldo": "El neoliberalismo nos dejó un país herido. Cuando lo público se entrega, el pueblo pierde; cuando lo público se defiende, el pueblo gana. (Plan pág. 117-118)"
+        },
+        "seguridad": {
+          "pregunta": "¿Cómo debe enfrentarse el problema de los grupos armados?",
+          "posicion": "A",
+          "descripcion": "Mediante negociación y paz total, atacando las causas estructurales de la violencia. La ofensiva militar no resuelve el problema de fondo.",
+          "cita_respaldo": "La reforma agraria no es solo una política rural, es una estrategia integral para transformar las economías ilegales en economías productivas, legales y sostenibles. (Plan pág. 759)"
+        },
+        "campo": {
+          "pregunta": "¿Qué hacer con la concentración de tierras en Colombia?",
+          "posicion": "A",
+          "descripcion": "Redistribuir tierras fértiles concentradas, restituir tierras despojadas y convertir la economía campesina en el motor del país.",
+          "cita_respaldo": "Mientras el 10% de los más ricos posee el 81% de las tierras cultivables, el 90% de los propietarios solo tienen el 19%. Debemos acabar con esa desigualdad vergonzosa. (Plan pág. 745-746)"
+        }
+      }
+    },
+    {
+      "id": "espriella",
+      "candidato": {
+        "nombre": "Abelardo de la Espriella",
+        "partido": "Candidato independiente (coalición de derecha)",
+        "posicion_politica": "Derecha",
+        "formula_vice": "José Manuel Restrepo (exministro de Hacienda)",
+        "eslogan": "El Milagro de los Nunca",
+        "descripcion_perfil": ""
+      },
+      "ejes_tematicos": {
+        "economia_e_impuestos": {
+          "titulo": "Economía e impuestos",
+          "resumen": "Meta de crecimiento del 7% anual (comparable a Corea del Sur y Singapur). Ajuste fiscal de $70 billones, reducción del Estado en una cuarta parte, recorte de carga tributaria empresarial y gran desregulación. Modelo pro-empresa y pro-inversión privada.",
+          "propuestas": [
+            {
+              "propuesta": "Meta de crecimiento del PIB superior al 7% anual",
+              "detalle": "Rechazo al 'mediocre crecimiento del 3%'. Modelo basado en los casos de Corea del Sur y Singapur. Para 2030, déficit fiscal inferior al 3.5% y deuda/PIB por debajo del 55%.",
+              "fuente": "Propuesta 6 — La Economía de la Patria Milagro. Cifras relevantes: crecimiento 2025 fue solo 2.6%"
+            },
+            {
+              "propuesta": "Plan de ajuste fiscal de $70 billones: reducir el Estado hasta en una cuarta parte",
+              "detalle": "$31.8 billones por optimización del Estado (eliminación nómina politiquera), asignación adecuada de subsidios y mayor recaudo anti-evasión DIAN. Aprovechando la nueva ley de SGP para descentralización.",
+              "fuente": "Propuesta 7 — Macroeconomía y lo Fiscal"
+            },
+            {
+              "propuesta": "Gran Revolución de Desregulación: por cada nueva regulación, eliminar dos",
+              "detalle": "Revisión de Invima, ICA, superintendencias, cámaras de comercio, notariado, licencias ambientales, consultas a comunidades, DIAN, entre otras. Política 'Una entra y dos salen'.",
+              "fuente": "Propuesta 6 — La Economía de la Patria Milagro"
+            },
+            {
+              "propuesta": "Reducir carga tributaria y costos de energía para el sector empresarial",
+              "detalle": "Modificar y simplificar la estructura tributaria para incentivar inversión privada. Transformar subsidios eliminando su regresividad (cruce Sisbén IV-DIAN). Modernizar DIAN con inteligencia artificial.",
+              "fuente": "Propuesta 7 — Macroeconomía y lo Fiscal"
+            },
+            {
+              "propuesta": "Plan Cosecha Solidaria para erradicar el hambre",
+              "detalle": "Primer objetivo: luchar contra la pobreza. Programa de alimentación como prioridad social del gobierno.",
+              "fuente": "Propuesta 6 — La Economía de la Patria Milagro"
+            },
+            {
+              "propuesta": "Programa 'País de propietarios': créditos de vivienda al 2% anual a 30 años",
+              "detalle": "Para que los colombianos puedan comprar vivienda propia con subsidio VIS hasta $52 millones.",
+              "fuente": "Propuesta 6 — La Economía / Propuesta 11 — El Campo"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "seguridad_y_paz": {
+          "titulo": "Seguridad y paz",
+          "resumen": "Posición más dura de todos los candidatos. Rechazo total a la negociación con grupos armados. Ofensiva militar, fumigación aérea de coca, recuperación del monopolio de las armas y desmonte de poderes coercitivos paralelos. Inspirada en la Seguridad Democrática.",
+          "propuestas": [
+            {
+              "propuesta": "¡Con los criminales no habrá negociación! Rechazo total a la Paz Total",
+              "detalle": "La Paz Total de Petro es calificada como 'traición a la Patria', no como paz fracasada. Posición de confrontación directa con todos los grupos armados ilegales.",
+              "fuente": "Propuesta 3 — La Seguridad de la Patria Milagro"
+            },
+            {
+              "propuesta": "Destruir las 330.000 hectáreas de coca con todas las herramientas disponibles",
+              "detalle": "Fumigación aérea, erradicación manual, persecución a capitales narcos, extinción de dominio exprés, sustitución y extradición. Sin excepción.",
+              "fuente": "Propuesta 3 — La Seguridad de la Patria Milagro. Cifra: 330.000 ha de coca y 2.664 toneladas potenciales de cocaína"
+            },
+            {
+              "propuesta": "Recuperar el control territorial y el monopolio estatal de las armas",
+              "detalle": "Desmontar milicias y poderes coercitivos paralelos. Reconstruir y fortalecer la Fuerza Pública. Recuperar el sistema carcelario.",
+              "fuente": "Propuesta 3 — La Seguridad de la Patria Milagro"
+            },
+            {
+              "propuesta": "Bloque de Búsqueda contra la Extorsión y Primera Línea de Seguridad con veteranos",
+              "detalle": "Seguridad en el barrio con unidades especiales. Fortalecimiento de inteligencia, justicia y judicialización.",
+              "fuente": "Propuesta 3 — La Seguridad de la Patria Milagro. Contexto: 12.180 extorsiones y 651 secuestros en 2025"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "salud": {
+          "titulo": "Salud",
+          "resumen": "Plan de choque de $10 billones para rescatar el sistema sin liquidar las EPS. Prioridad en flujo de recursos, acceso a medicamentos y fortalecimiento hospitalario. Transición responsable que preserve lo que funciona.",
+          "propuestas": [
+            {
+              "propuesta": "Plan de choque de $10 billones para rescatar el sistema de salud",
+              "detalle": "Revisar ajustes a la UPC que permitieron desvío de recursos. Revisión trimestral a la ejecución de la UPC por las EPS. Restablecer flujo de recursos.",
+              "fuente": "Propuesta 5 — La Salud de la Patria Milagro. Contexto: cartera hospitalaria de $24 billones (ACHC)"
+            },
+            {
+              "propuesta": "Recuperar acceso oportuno a medicamentos y tratamientos",
+              "detalle": "Retomar política de presupuestos máximos y control de precios en tecnologías, medicamentos y dispositivos. 584 medicamentos no entregados, 61% de pacientes los compran de su bolsillo.",
+              "fuente": "Propuesta 5 — La Salud de la Patria Milagro"
+            },
+            {
+              "propuesta": "Hacer más eficientes a las EPS con topes máximos a costos de administración",
+              "detalle": "Transición responsable que preserve lo que funciona y corrija lo que colapsó. No eliminar las EPS sino reformarlas. Bloque Anticorrupción en contratos de infraestructura en salud.",
+              "fuente": "Propuesta 5 — La Salud de la Patria Milagro. Cifra: 25 millones de colombianos en EPS intervenidas"
+            },
+            {
+              "propuesta": "Fortalecer red hospitalaria y dignificar al personal de salud",
+              "detalle": "Inyectar tecnología a la gestión del sistema. Definir tiempos máximos de atención para citas especializadas. Poner al paciente en el centro.",
+              "fuente": "Propuesta 5 — La Salud de la Patria Milagro. Cifra: 2.436 fallecimientos por barreras evitables en 2025"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "educacion": {
+          "titulo": "Educación",
+          "resumen": "Educación orientada a la economía productiva y la cuarta revolución industrial. Evaluación docente, tecnología, bilingüismo y créditos blandos para educación superior. Universidad Virtual en Casa.",
+          "propuestas": [
+            {
+              "propuesta": "Ciclos cortos en tecnologías de cuarta revolución industrial: IA, computación cuántica, robótica",
+              "detalle": "Formación de jóvenes productivos para la economía del siglo XXI. Énfasis en educación terciaria, tecnológica y virtual. Reforma para que la educación sea más internacional y conectada a temas productivos.",
+              "fuente": "Propuesta 9 — La Educación de la Patria Milagro"
+            },
+            {
+              "propuesta": "Implementar evaluación docente para mejorar la calidad educativa",
+              "detalle": "Evaluación de maestros como herramienta de mejora del sistema. Cifra de contexto: 71% de estudiantes no alcanza nivel mínimo en matemáticas; 51% por debajo del mínimo en lectura.",
+              "fuente": "Propuesta 9 — La Educación de la Patria Milagro"
+            },
+            {
+              "propuesta": "Créditos blandos y programa de méritos para educación universitaria",
+              "detalle": "Para que los mejores talentos se eduquen en la universidad de su interés. Contexto: 200.000 jóvenes quedan por fuera de la educación superior por falta de recursos.",
+              "fuente": "Propuesta 9 — La Educación de la Patria Milagro"
+            },
+            {
+              "propuesta": "Universidad Virtual en Casa y conectividad con computadores gratuitos",
+              "detalle": "Solo 44.1% de escuelas primarias tiene Internet con fines pedagógicos. Promover inversión privada en ciencia, tecnología e innovación en educación pública con incentivos fiscales.",
+              "fuente": "Propuesta 9 — La Educación de la Patria Milagro"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "medio_ambiente": {
+          "titulo": "Medio ambiente",
+          "resumen": "Apuesta por energías renovables y nuevas energías con política nuclear. Defensa del sector minero-energético como estratégico pero con diferenciación clara entre minería legal e ilegal. Sin restricciones ideológicas al petróleo y gas.",
+          "propuestas": [
+            {
+              "propuesta": "Recuperar exploración y producción de petróleo y gas con seguridad jurídica",
+              "detalle": "Colombia perdió autosuficiencia energética en diciembre 2024. En el primer semestre 2025 importó el 17% de la demanda. Reservas probadas de petróleo para solo 7.2 años.",
+              "fuente": "Propuesta 8 — La Política Minero Energética de la Patria Milagro"
+            },
+            {
+              "propuesta": "Promover turismo sostenible, energías renovables y política de energía nuclear",
+              "detalle": "Licenciamientos express y aceleración de consultas a comunidades para proyectos energéticos. Altillanura como plataforma de desarrollo.",
+              "fuente": "Propuesta 6 — La Economía / Propuesta 8 — Minero Energética"
+            },
+            {
+              "propuesta": "Diferenciar con claridad entre minería legal y minería criminal",
+              "detalle": "Respaldar la inversión formal y la formalización del pequeño minero. Perseguir estructuras ilegales. Desarrollar oro, cobre, plata y tierras raras como activos estratégicos.",
+              "fuente": "Propuesta 8 — La Política Minero Energética de la Patria Milagro"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "anticorrupcion_e_instituciones": {
+          "titulo": "Anticorrupción e instituciones",
+          "resumen": "Bloque de Búsqueda contra la Corrupción dirigido por el presidente. Gobierno trazable, blockchain en contratación pública, extinción de dominio exprés y defensa de la Constitución con rechazo a constituyente.",
+          "propuestas": [
+            {
+              "propuesta": "Bloque de Búsqueda contra la Corrupción dirigido directamente por el presidente",
+              "detalle": "Uso de inteligencia, análisis financiero y policía judicial. Extinción de dominio exprés y persecución de flujos financieros ilícitos.",
+              "fuente": "Propuesta 4 — La Anticorrupción en la Patria Milagro. Cifra: $50 billones anuales robados por corrupción"
+            },
+            {
+              "propuesta": "A 2030 todos los procesos de contratación pública en blockchain",
+              "detalle": "Para que la información introducida no pueda ser modificada por nadie. Gobierno trazable y reforma de la contratación pública. Menos discrecionalidad y más transparencia.",
+              "fuente": "Propuesta 4 — La Anticorrupción. Colombia en puesto 99 de 182 en IPC 2025"
+            },
+            {
+              "propuesta": "Defensa de la Constitución, rechazo total a una Constituyente",
+              "detalle": "Compromiso de lealtad con la Constitución. Defensa de jueces, prensa e instituciones. Respeto a la separación de poderes e independencia judicial.",
+              "fuente": "Propuesta 2 — Patriotismo Constitucional en la Patria Milagro"
+            },
+            {
+              "propuesta": "Limpieza inmediata en cabezas de instituciones públicas, empezando por Ecopetrol",
+              "detalle": "Erradicar cualquier filtro de narcotráfico, corrupción y mala gerencia. Meta de 100 días iniciales para ratificar resultados.",
+              "fuente": "Propuesta 1 — Salvar la Patria Milagro"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "relaciones_internacionales": {
+          "titulo": "Relaciones internacionales",
+          "resumen": "No hay una propuesta desarrollada de política exterior en el documento. Se infiere una posición pro-occidente y de alineación con EE.UU. a partir de sus propuestas de seguridad y economía.",
+          "propuestas": [
+            {
+              "propuesta": "Cooperación nacional e internacional en la lucha anticorrupción",
+              "detalle": "Colombia debe trabajar con organismos internacionales para perseguir flujos financieros ilícitos y activos de corruptos en el exterior.",
+              "fuente": "Propuesta 4 — La Anticorrupción en la Patria Milagro"
+            },
+            {
+              "propuesta": "Llevar a Colombia al grupo de los 25 países más prósperos, seguros y democráticos del mundo",
+              "detalle": "Objetivo de posicionamiento internacional basado en prosperidad económica y democracia. Meta implícita de alineación con Occidente.",
+              "fuente": "Propuesta 6 — La Economía de la Patria Milagro"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "vivienda_y_campo": {
+          "titulo": "Vivienda y campo",
+          "resumen": "Meta de 2 millones de nuevas hectáreas productivas entre 2026 y 2030. Volver propietario al campesino con títulos reales. Créditos de vivienda al 2% a 30 años. Altillanura como gran apuesta productiva.",
+          "propuestas": [
+            {
+              "propuesta": "Meta de 2 millones de nuevas hectáreas productivas entre 2026 y 2030",
+              "detalle": "Reorganizar la política pública rural con atención directa a 3 millones de campesinos y familias. Más de 600.000 empleos rurales previstos. Ampliar la frontera agrícola productiva en 1.5 millones de hectáreas.",
+              "fuente": "Propuesta 11 — El Campo de la Patria Milagro. Cifra: solo 5.5 de 39.2 millones de ha aptas se cosechan"
+            },
+            {
+              "propuesta": "Acabar la 'falsa reforma agraria' y volver propietario al campesino con títulos reales",
+              "detalle": "54% de productores no tiene título de propiedad. 73% no vive en su propia finca. La solución es la titulación formal, no la redistribución sin infraestructura.",
+              "fuente": "Propuesta 11 — El Campo de la Patria Milagro"
+            },
+            {
+              "propuesta": "Altillanura como plataforma de desarrollo: el 'Mato Grosso colombiano'",
+              "detalle": "Apuesta en coco, pasifloras, cereales y ganadería regenerativa. Vías, riego, conectividad, agroindustria y mercados como condiciones para la prosperidad rural.",
+              "fuente": "Propuesta 11 — El Campo de la Patria Milagro"
+            },
+            {
+              "propuesta": "Escuela de Emprendedores Rurales para 100.000 jóvenes",
+              "detalle": "Formación en prácticas eficientes con crédito, asociatividad, tecnología y mentoría. 89% de productores nunca ha tenido acceso a crédito; 83% no ha recibido asistencia técnica.",
+              "fuente": "Propuesta 11 — El Campo de la Patria Milagro"
+            },
+            {
+              "propuesta": "Programa 'País de propietarios': subsidio VIS hasta $52 millones y créditos al 2% a 30 años",
+              "detalle": "Para que los colombianos puedan comprar vivienda propia. Fondo de $500.000 millones para autonomía económica de mujeres.",
+              "fuente": "Propuesta 6 — La Economía / Propuesta 10 — Las Mujeres de la Patria Milagro"
+            }
+          ],
+          "fuente_pagina": ""
+        }
+      },
+      "sapos_electorales": [
+        {
+          "sapo": "No tiene ninguna experiencia en cargos públicos ni en gestión del Estado",
+          "detalle": "Es abogado penalista sin antecedentes en administración pública. Sus propuestas de gestión son ambiciosas pero sin historial que las respalde.",
+          "fuente": "Perfil público verificado. El candidato no ha ocupado cargos en el ejecutivo ni el legislativo."
+        },
+        {
+          "sapo": "Su propuesta de seguridad es explícitamente una versión 2.0 de la Seguridad Democrática de Uribe",
+          "detalle": "Rechazo total a cualquier negociación con grupos armados y apuesta por ofensiva militar. Para quienes consideran que ese modelo generó excesos (falsos positivos, estigmatización de comunidades), esto es un riesgo.",
+          "fuente": "Propuesta 3 — La Seguridad de la Patria Milagro y análisis de medios"
+        },
+        {
+          "sapo": "El ajuste fiscal de $70 billones no detalla con precisión qué gasto social se recortaría",
+          "detalle": "Reducir el Estado en una cuarta parte es una meta ambiciosa. No queda claro qué programas sociales podrían verse afectados en el proceso de ajuste.",
+          "fuente": "Propuesta 7 — Macroeconomía y lo Fiscal"
+        },
+        {
+          "sapo": "La propuesta de política exterior es prácticamente inexistente en el documento",
+          "detalle": "De las 13 propuestas, ninguna desarrolla política exterior, relaciones con Venezuela, EE.UU. o multilateralismo. Es un punto ciego significativo.",
+          "fuente": "Documento completo — ausencia verificada"
+        },
+        {
+          "sapo": "Elevar a rango constitucional la prohibición de 'combinación de todas las formas de lucha' puede cerrar espacios de diálogo político",
+          "detalle": "Esta propuesta es interpretada por algunos sectores como una medida que podría criminalizar la protesta social o el activismo político.",
+          "fuente": "Propuesta 2 — Patriotismo Constitucional en la Patria Milagro"
+        }
+      ],
+      "citas_textuales": [
+        {
+          "tema": "Seguridad",
+          "cita": "Con los criminales no habrá negociación. La Paz Total de Petro no es paz fracasada sino traición a la Patria.",
+          "contexto": "Sobre su política de seguridad en el documento de campaña",
+          "fuente": "Propuesta 3 — La Seguridad de la Patria Milagro"
+        },
+        {
+          "tema": "Economía",
+          "cita": "Colombia no es un país pobre, sino empobrecido por la corrupción, la violencia, el desgobierno, el centralismo y la mediocridad sistemática. La tarea es pasar de administrar escasez a desatar abundancia.",
+          "contexto": "Sobre su modelo económico",
+          "fuente": "Propuesta 6 — La Economía de la Patria Milagro"
+        },
+        {
+          "tema": "Economía",
+          "cita": "No nos resignamos al mediocre crecimiento del 3% anual de los de siempre y creceremos al 7%.",
+          "contexto": "Sobre la meta de crecimiento económico",
+          "fuente": "Propuesta 6 — La Economía de la Patria Milagro"
+        },
+        {
+          "tema": "Anticorrupción / Identidad política",
+          "cita": "Los que nunca nos hemos robado un peso de la plata pública. Los que nunca hemos hecho politiquería. Los que nunca hemos traicionado al pueblo.",
+          "contexto": "Definición de su movimiento 'El Milagro de los Nunca'",
+          "fuente": "Portada del documento de propuestas"
+        },
+        {
+          "tema": "Anticorrupción",
+          "cita": "A 2030 todos los procesos de contratación pública se llevarán a cabo a través de blockchain para que la información introducida no pueda ser modificada por nadie.",
+          "contexto": "Sobre su propuesta de transparencia en contratación",
+          "fuente": "Propuesta 4 — La Anticorrupción en la Patria Milagro"
+        }
+      ],
+      "promesas_vs_realidad": {
+        "aplica": false,
+        "razon": "Abelardo de la Espriella no ha ocupado cargos públicos previos. No hay historial de gestión gubernamental para comparar.",
+        "nota": "Para evaluar su credibilidad, el módulo mostrará en su lugar el contraste entre su discurso de 'Los Nunca' (nunca han hecho politiquería) y los cuestionamientos que han surgido sobre sus alianzas políticas durante la campaña.",
+        "fuente": "Perfil público verificado"
+      },
+      "posiciones_test_afinidad": {
+        "economia": {
+          "pregunta": "¿Cuál debería ser el rol del Estado en la economía?",
+          "posicion": "D",
+          "descripcion": "El Estado debe reducirse significativamente, liberando espacio para la inversión privada. Menos regulación, menos impuestos, más libre mercado y desregulación.",
+          "cita_respaldo": "Colombia no puede seguir asfixiando al sector productivo. Gran Revolución de DesRegulación: por cada nueva regulación, eliminar dos. (Propuesta 6)"
+        },
+        "seguridad": {
+          "pregunta": "¿Cómo debe enfrentarse el problema de los grupos armados?",
+          "posicion": "D",
+          "descripcion": "Ofensiva militar sin negociación. El crimen es el enemigo principal y debe ser derrotado, no negociado.",
+          "cita_respaldo": "Con los criminales no habrá negociación. Recuperar el control territorial y reafirmar el monopolio estatal de las armas. (Propuesta 3)"
+        },
+        "campo": {
+          "pregunta": "¿Qué hacer con el campo colombiano?",
+          "posicion": "D",
+          "descripcion": "Titulación formal de tierras, expansión de la frontera productiva y apoyo a la agroindustria. No redistribución, sino productividad.",
+          "cita_respaldo": "Acabar la falsa reforma agraria y volver propietario al campesino con títulos reales. Meta de 2 millones de nuevas hectáreas productivas. (Propuesta 11)"
+        }
+      }
+    },
+    {
+      "id": "claudia",
+      "candidato": {
+        "nombre": "Claudia López Hernández",
+        "partido": "Consulta de las Soluciones",
+        "posicion_politica": "Centro",
+        "formula_vice": "Leonardo Rubio",
+        "eslogan": "Una Nueva Historia de Soluciones para la Gente",
+        "descripcion_perfil": "Exalcaldesa de Bogotá (2020-2023), exsenadora y politóloga. Primera mujer y primera persona abiertamente LGBTIQ+ en gobernar Bogotá. Reconocida por su lucha anticorrupción como impulsora del referendo de 2003. Su gestión en Bogotá fue marcada por el sistema de cuidado, la pandemia del COVID-19 y una relación tensa con el Concejo y el gobierno nacional."
+      },
+      "ejes_tematicos": {
+        "economia_e_impuestos": {
+          "titulo": "Economía e impuestos",
+          "resumen": "Modelo de crecimiento descentralizado orientado a duplicar la productividad en 20 años. Propone estabilidad fiscal, reducción gradual de impuestos empresariales atada al crecimiento del PIB, y apoyo a micronegocios y pymes.",
+          "propuestas": [
+            {
+              "propuesta": "Crear reglas predecibles de impuestos: la tasa de tributación empresarial de renta bajará 2 puntos por cada punto adicional de crecimiento del PIB y cuando la inversión privada supere el 20% del PIB.",
+              "fuente": "Págs. 13 y 22-27"
+            },
+            {
+              "propuesta": "Implementar un plan fiscal estable y predecible para 4 años para reactivar la economía, guiado por la regla fiscal y una regla de crecimiento económico.",
+              "fuente": "Págs. 13 y 22-27"
+            },
+            {
+              "propuesta": "Los gastos totales del gobierno no pueden crecer más que los ingresos del país. Recortes de gasto burocrático y búsqueda de eficiencias.",
+              "fuente": "Págs. 13 y 22-27"
+            },
+            {
+              "propuesta": "Crear el Fondo de Convergencia Regional para unificar recursos del presupuesto nacional, cooperación internacional y fondos de inversión dispersos.",
+              "fuente": "Págs. 13 y 22-27"
+            },
+            {
+              "propuesta": "Subsidios al empleo con salario mínimo para jóvenes, mujeres y mayores de 50 años. Crédito preferencial para economía popular liderada por mujeres y jóvenes.",
+              "fuente": "Págs. 13 y 22-27"
+            },
+            {
+              "propuesta": "Retomar la exploración de hidrocarburos y realizar pilotos de fracking bajo evidencia científica y riguroso licenciamiento ambiental para asegurar precios bajos de energía.",
+              "fuente": "Págs. 13 y 22-27"
+            }
+          ],
+          "fuente_pagina": "Págs. 13 y 22-27"
+        },
+        "seguridad_y_paz": {
+          "titulo": "Seguridad y paz",
+          "resumen": "Propone romper con la 'Paz Total' de Petro y la postura de Duque. Clasifica a todos los grupos armados post-FARC como organizaciones criminales transnacionales, no actores políticos. Estrategia de tres niveles judiciales y creación de una Fiscalía Antimafia.",
+          "propuestas": [
+            {
+              "propuesta": "Crear la Fiscalía Antimafia: justicia implacable con mínimas garantías y máximas sanciones para crimen organizado, narcotráfico y corrupción. Todo el capital ilegal incautado se reinvertirá en las regiones.",
+              "fuente": "Págs. 9-13"
+            },
+            {
+              "propuesta": "Reformar la justicia en tres niveles: (1) Fiscalía Antimafia para mafias; (2) justicia ordinaria para delincuencia común; (3) justicia restaurativa para faltas a la convivencia.",
+              "fuente": "Págs. 9-13"
+            },
+            {
+              "propuesta": "Fortalecer el Ministerio de Defensa: ampliar el pie de fuerza de Fuerzas Militares y Policía, reforzar inteligencia y capacidades operativas.",
+              "fuente": "Págs. 9-13"
+            },
+            {
+              "propuesta": "Retomar el control de las cárceles mediante reforma penitenciaria integral, transformación del INPEC en gendarmería carcelaria y expansión del sistema.",
+              "fuente": "Págs. 9-13"
+            },
+            {
+              "propuesta": "Reducir violencias basadas en género: fortalecer investigación y sanción de feminicidios y crímenes de odio contra población LGBTIQ+.",
+              "fuente": "Págs. 9-13"
+            },
+            {
+              "propuesta": "Declarar que desde 2016 solo existen organizaciones criminales transnacionales, no actores armados con tratamiento político. Rechaza mesas de paz con estos grupos.",
+              "fuente": "Págs. 9-13"
+            },
+            {
+              "propuesta": "Colombia acompañará esfuerzos para restablecer la democracia y la libertad en Venezuela.",
+              "fuente": "Págs. 9-13"
+            }
+          ],
+          "fuente_pagina": "Págs. 9-13"
+        },
+        "salud": {
+          "titulo": "Salud",
+          "resumen": "Propone resolver la crisis financiera inmediata del sistema y construir un Sistema Mixto e Integral de Salud. Mantiene el modelo de aseguramiento mixto público-privado (no elimina las EPS) pero con controles estrictos, auditoría pública y tablas de precios unificadas.",
+          "propuestas": [
+            {
+              "propuesta": "Sistema Mixto e Integral de Salud: articula salud física, mental y cuidado en todo el ciclo vital. Mantiene gestoras y prestadoras, pero con límites a integración vertical y auditoría pública rigurosa.",
+              "fuente": "Pág. 15"
+            },
+            {
+              "propuesta": "Establecer tablas de precios unificadas por servicios, regiones y poblaciones, con planes de beneficios explícitos y mecanismos de pago contra auditoría con tecnología transparente.",
+              "fuente": "Pág. 15"
+            },
+            {
+              "propuesta": "Nuevo estudio actuarial que refleje realidad demográfica, epidemiológica y cultural. A partir de ello, construir planes de beneficios explícitos incluyendo salud mental, discapacidad y envejecimiento.",
+              "fuente": "Pág. 15"
+            },
+            {
+              "propuesta": "Sistema de información en salud unificado, público, interoperable y transparente, centrado en el paciente.",
+              "fuente": "Pág. 15"
+            },
+            {
+              "propuesta": "Incorporar la salud mental y la discapacidad como prioridades de atención en el nuevo sistema.",
+              "fuente": "Pág. 15"
+            }
+          ],
+          "fuente_pagina": "Pág. 15"
+        },
+        "educacion": {
+          "titulo": "Educación",
+          "resumen": "Propone transformación educativa centrada en equidad, calidad y conexión con el mercado laboral. Bandera principal: 1 millón de becas de educación y trabajo (réplica del programa Todos a la U que implementó en Bogotá). Descentralización del sistema educativo.",
+          "propuestas": [
+            {
+              "propuesta": "Todos a la U — un millón de becas de educación y trabajo: programa nacional de acceso a educación posmedia, adaptado a cada región, similar al que implementó en la Alcaldía de Bogotá.",
+              "fuente": "Págs. 17-18"
+            },
+            {
+              "propuesta": "Universalizar el preescolar de tres grados y mejorar infraestructura de sedes oficiales.",
+              "fuente": "Págs. 17-18"
+            },
+            {
+              "propuesta": "Fortalecer el sistema educativo con descentralización efectiva e incentivos ligados a calidad.",
+              "fuente": "Págs. 17-18"
+            },
+            {
+              "propuesta": "Transformar el SENA para responder a necesidades productivas regionales y unificar sistema Posmedia en una nueva Agencia Nacional de Educación Posmedia.",
+              "fuente": "Págs. 17-18"
+            },
+            {
+              "propuesta": "Renovación curricular que integre competencias del siglo XXI y educación socioemocional.",
+              "fuente": "Págs. 17-18"
+            },
+            {
+              "propuesta": "Impulsar la empleabilidad de mujeres, jóvenes y mayores de 50 años con formación para el trabajo en sectores de alta demanda: cuidado, tecnología, biotecnología, turismo.",
+              "fuente": "Págs. 17-18"
+            }
+          ],
+          "fuente_pagina": "Págs. 17-18"
+        },
+        "medio_ambiente": {
+          "titulo": "Medio ambiente",
+          "resumen": "Apuesta por protección de ecosistemas estratégicos combinada con exploración de hidrocarburos y pilotos de fracking. Propone descentralizar la gestión ambiental y reformar el licenciamiento. Liderazgo regional en protección de la Amazonía y el Pacífico.",
+          "propuestas": [
+            {
+              "propuesta": "Retomar exploración de hidrocarburos y realizar pilotos de fracking bajo evidencia científica y licenciamiento riguroso para garantizar precios bajos y evitar desabastecimiento de gas.",
+              "fuente": "Págs. 20-21 y 23"
+            },
+            {
+              "propuesta": "Usar el gas natural como combustible de transición estratégica mientras se desarrollan renovables (solar en Caribe, eólica en La Guajira).",
+              "fuente": "Págs. 20-21 y 23"
+            },
+            {
+              "propuesta": "Ejercer liderazgo regional en protección de la Amazonía, el Pacífico biogeográfico, la reserva Seaflower y ecosistemas estratégicos.",
+              "fuente": "Págs. 20-21 y 23"
+            },
+            {
+              "propuesta": "Reformar el ordenamiento ambiental: poner fin a la fragmentación normativa y centralismo técnico. Fortalecer gobernanza descentralizada y control ciudadano.",
+              "fuente": "Págs. 20-21 y 23"
+            },
+            {
+              "propuesta": "Gestionar el agua como bien común y derecho humano: cerrar brechas de acceso a agua potable y saneamiento en zonas rurales y comunidades étnicas.",
+              "fuente": "Págs. 20-21 y 23"
+            },
+            {
+              "propuesta": "Mercado de bonos de carbono y esquemas de Pagos por Servicios Ambientales para financiar conservación en la Amazonía.",
+              "fuente": "Págs. 20-21 y 23"
+            }
+          ],
+          "fuente_pagina": "Págs. 20-21 y 23"
+        },
+        "anticorrupcion_e_instituciones": {
+          "titulo": "Anticorrupción e instituciones",
+          "resumen": "Uno de los ejes más desarrollados del programa. Propone eliminar intermediaciones políticas, reformar la Procuraduría, crear presupuestos participativos regionales y descentralizar el DNP. Tono muy explícito contra la 'politiquería' y el clientelismo.",
+          "propuestas": [
+            {
+              "propuesta": "Crear la Fiscalía Antimafia con mínimas garantías procesales y máximas sanciones para corrupción organizada. Los corruptos serán procesados bajo sus reglas.",
+              "fuente": "Págs. 13 y 24-25"
+            },
+            {
+              "propuesta": "Eliminar espacios de intermediación, fondos sin control y contratación a medida de mafias políticas. Contratación pública transparente, competitiva y vigilada.",
+              "fuente": "Págs. 13 y 24-25"
+            },
+            {
+              "propuesta": "Transformar la Procuraduría: destinar sus funcionarios y recursos a fortalecer la Fiscalía Antimafia y el Sistema Nacional de Defensoría Pública.",
+              "fuente": "Págs. 13 y 24-25"
+            },
+            {
+              "propuesta": "Descentralizar el DNP convirtiéndolo en Departamentos de Planeación Regional (DPR) con tecnocracia local, sin intermediación política de congresistas.",
+              "fuente": "Págs. 13 y 24-25"
+            },
+            {
+              "propuesta": "Crear presupuestos participativos regionales donde la ciudadanía vote para priorizar proyectos de inversión.",
+              "fuente": "Págs. 13 y 24-25"
+            },
+            {
+              "propuesta": "Cinco mandatos de gobierno: en el territorio no en el escritorio; sin corrupción; trabajando y cumpliendo; respetando la Constitución; con controles y sostenibilidad.",
+              "fuente": "Págs. 13 y 24-25"
+            }
+          ],
+          "fuente_pagina": "Págs. 13 y 24-25"
+        },
+        "relaciones_internacionales": {
+          "titulo": "Relaciones internacionales",
+          "resumen": "Diplomacia activa para abrir mercados, atraer inversión y combatir el crimen transnacional. Postura clara de apoyo a la democracia en Venezuela. Liderazgo en la reforma del régimen internacional de drogas.",
+          "propuestas": [
+            {
+              "propuesta": "Colombia acompañará los esfuerzos para restablecer la democracia y la libertad en Venezuela.",
+              "fuente": "Pág. 12-13"
+            },
+            {
+              "propuesta": "Impulsar una diplomacia política y económica activa que abra mercados, atraiga inversión extranjera directa de calidad y fortalezca intercambios culturales y científicos.",
+              "fuente": "Pág. 12-13"
+            },
+            {
+              "propuesta": "Promover la reforma del régimen internacional de drogas: apoyar la desclasificación del cannabis y la hoja de coca; fortalecer cooperación contra crimen organizado y lavado de activos.",
+              "fuente": "Pág. 12-13"
+            },
+            {
+              "propuesta": "Ejercer liderazgo en las Américas para la protección de la Amazonía y ecosistemas estratégicos.",
+              "fuente": "Pág. 12-13"
+            },
+            {
+              "propuesta": "Consolidar política exterior orientada a cooperación efectiva para defensa de la democracia y lucha contra crimen organizado.",
+              "fuente": "Pág. 12-13"
+            },
+            {
+              "propuesta": "Fortalecer cooperación con OTAN y Organización del Tratado de Cooperación Amazónica (OTCA).",
+              "fuente": "Pág. 12-13"
+            }
+          ],
+          "fuente_pagina": "Pág. 12-13"
+        },
+        "vivienda_y_campo": {
+          "titulo": "Vivienda y campo",
+          "resumen": "600 mil soluciones habitacionales en 4 años. Propone Banco Nacional de Suelos, arrendamiento social y mejoramiento de vivienda. En el campo, énfasis en economía regional y agroindustria descentralizada, no reforma agraria redistributiva tradicional.",
+          "propuestas": [
+            {
+              "propuesta": "600 mil soluciones habitacionales: 250.000 subsidios compra vivienda nueva o usada; 200.000 beneficiarios de arrendamiento social; 150.000 mejoramientos de vivienda.",
+              "fuente": "Págs. 19-20 y 30"
+            },
+            {
+              "propuesta": "Crear Banco Nacional de Suelos para gestión de suelo público estratégico en función del desarrollo regional.",
+              "fuente": "Págs. 19-20 y 30"
+            },
+            {
+              "propuesta": "Desarrollar instrumentos financieros alternativos: subsidios mixtos, coberturas de tasa de interés, arriendos con opción de compra, microfinanzas para mejoramiento.",
+              "fuente": "Págs. 19-20 y 30"
+            },
+            {
+              "propuesta": "Diseño de un censo nacional de ingresos, vivienda y población que reemplace la estratificación.",
+              "fuente": "Págs. 19-20 y 30"
+            },
+            {
+              "propuesta": "Apoyo a economía campesina mediante modelos silvopastoriles en Llanos, agroindustria regional y precio de compra garantizado para cosechas.",
+              "fuente": "Págs. 19-20 y 30"
+            },
+            {
+              "propuesta": "Formalización predial masiva y actualización del catastro multipropósito para facilitar acceso al crédito.",
+              "fuente": "Págs. 19-20 y 30"
+            }
+          ],
+          "fuente_pagina": "Págs. 19-20 y 30"
+        }
+      },
+      "sapos_electorales": [
+        {
+          "sapo": "Propone retomar la exploración de hidrocarburos y pilotos de fracking",
+          "descripcion": "En un contexto de debate sobre transición energética, el plan de gobierno propone explícitamente retomar la exploración de hidrocarburos y realizar pilotos de fracking bajo licenciamiento ambiental. Esto genera tensión con su discurso de liderazgo ambiental y puede ser rechazado por votantes de centro-izquierda y ambientalistas.",
+          "fuente": "Plan de gobierno, pág. 23: texto sobre política energética y minera"
+        },
+        {
+          "sapo": "Gestión como alcaldesa de Bogotá fue polarizada y con conflictos institucionales permanentes",
+          "descripcion": "Su alcaldía (2020-2023) estuvo marcada por conflictos con el Concejo de Bogotá, bloqueo de proyectos, el pico y placa ambiental, la crisis del metro, y declaraciones que generaron controversia pública. Su aprobación al final del mandato estaba por debajo del 30% según varias encuestas. El módulo 'Promesas vs Realidad' encontrará aquí material abundante.",
+          "fuente": "Informes de gestión Alcaldía de Bogotá 2020-2023, medios verificables"
+        },
+        {
+          "sapo": "Clasifica a todos los grupos armados como organizaciones criminales, cerrando la puerta a negociaciones de paz",
+          "descripcion": "El plan declara explícitamente que desde 2016 solo existen organizaciones criminales transnacionales y que insistir en 'mesas de paz' con ellos 'solo produce su crecimiento y fortalecimiento'. Para votantes que apoyan procesos de paz o soluciones dialogadas al conflicto, esta postura puede resultar inaceptable.",
+          "fuente": "Plan de gobierno, pág. 10"
+        },
+        {
+          "sapo": "Propone mínimas garantías judiciales para miembros de crimen organizado",
+          "descripcion": "La Fiscalía Antimafia propuesta operaría con 'mínimas garantías' procesales y 'máximas sanciones'. Esto plantea interrogantes sobre el respeto al debido proceso y la presunción de inocencia, principios constitucionales fundamentales. Críticos pueden señalar riesgos de abusos institucionales.",
+          "fuente": "Plan de gobierno, pág. 11"
+        },
+        {
+          "sapo": "Encuestas la ubican con cerca del 2% de intención de voto",
+          "descripcion": "A diferencia de los otros cinco candidatos incluidos en la app, Claudia López enfrenta un desafío de viabilidad electoral significativo según las encuestas disponibles. Su inclusión en la app responde al principio de neutralidad y a la calidad de su propuesta programática, no a su relevancia electoral actual.",
+          "fuente": "AtlasIntel mayo 2026"
+        }
+      ],
+      "citas_textuales": [
+        {
+          "tema": "Identidad política",
+          "cita": "Las mayorías de Colombia no son 'de izquierda', 'de derecha' o 'de centro'. Esa es una falsa división. Las mayorías somos gente buena, honrada y trabajadora que sentimos lo mismo: rabia cuando vemos que los corruptos y bandidos se salen con la suya.",
+          "contexto": "Plan de gobierno, pág. 5",
+          "fuente": "Plan de gobierno, pág. 5"
+        },
+        {
+          "tema": "Paz y conflicto",
+          "cita": "Venimos de dos fracasos: el gobierno de Duque incumplió el Acuerdo de Paz y el de Petro improvisó una 'Paz Total' sin resultados, ambas políticas erráticas permitieron la expansión criminal, del narcotráfico y de las rentas ilícitas.",
+          "contexto": "Plan de gobierno, pág. 10",
+          "fuente": "Plan de gobierno, pág. 10"
+        },
+        {
+          "tema": "Corrupción",
+          "cita": "Ningún colombiano quiere depender del subsidio de un político, porque sabe que eso acaba con su libertad y lo hace esclavo del clientelismo.",
+          "contexto": "Plan de gobierno, pág. 17",
+          "fuente": "Plan de gobierno, pág. 17"
+        },
+        {
+          "tema": "Modelo de gobierno",
+          "cita": "Colombia está cansada de promesas de cambio, programas bonitos que no pasan del papel. Por eso vamos a gobernar con cinco mandatos: en el territorio no en el escritorio; sin corrupción; trabajando y cumpliendo; respetando la Constitución; con controles y sostenibilidad.",
+          "contexto": "Plan de gobierno, pág. 8",
+          "fuente": "Plan de gobierno, pág. 8"
+        },
+        {
+          "tema": "Grupos armados",
+          "cita": "Desde el 2016, hace 10 años, independientemente de su nombre, solo quedan organizaciones criminales transnacionales que se disputan rentas ilícitas y control territorial para maximizarlas. Insistir en tratamiento político y mesas de paz a esas organizaciones solo produce su crecimiento y fortalecimiento a expensas de la vida de la gente.",
+          "contexto": "Plan de gobierno, pág. 10",
+          "fuente": "Plan de gobierno, pág. 10"
+        },
+        {
+          "tema": "Desarrollo regional",
+          "cita": "Con la dinámica actual, el país tardaría 350 años en duplicar su productividad, necesitamos hacerlo en 20 años.",
+          "contexto": "Plan de gobierno, pág. 22",
+          "fuente": "Plan de gobierno, pág. 22"
+        }
+      ],
+      "promesas_vs_realidad": {
+        "aplica": true,
+        "cargo_previo": "Alcaldesa de Bogotá (2020-2023)",
+        "logros": [
+          "Sistema Distrital de Cuidado → CUMPLIDO PARCIALMENTE. Implementó las 'manzanas de cuidado' en Bogotá, una de sus banderas más reconocidas. Sin embargo, la cobertura fue limitada y la sostenibilidad financiera fue cuestionada.",
+          "Todos a la U — becas de educación superior → CUMPLIDO. Programa implementado en Bogotá con resultados verificables. Ahora lo propone a escala nacional como bandera central de su programa.",
+          "Reducir homicidios en Bogotá → CUMPLIDO PARCIALMENTE. La tasa de homicidios en Bogotá se mantuvo relativamente estable durante su mandato, aunque otras modalidades de violencia como el hurto aumentaron en ciertos períodos."
+        ],
+        "criticas": [
+          "Primera línea del Metro de Bogotá → CONTROVERSIA. Generó tensión permanente con el gobierno Duque sobre el modelo de metro (subterráneo vs. elevado). La obra arrancó pero con retrasos y sobrecostos. Claudia culpó al gobierno nacional; el gobierno nacional la culpó a ella.",
+          "Gestión de la pandemia COVID-19 → MIXTO. Bogotá fue pionera en cuarentenas y medidas preventivas. Sin embargo, la gestión de los picos de contagio generó críticas por restricciones consideradas excesivas y por la gestión de los hospitales distritales.",
+          "Relación con el Concejo de Bogotá → FALLIDO. Su mandato fue marcado por bloqueos frecuentes del Concejo, incluyendo el hundimiento del Plan de Desarrollo en primera instancia. Su estilo confrontacional generó coaliciones en su contra."
+        ],
+        "historial": [
+          {
+            "promesa": "Sistema Distrital de Cuidado",
+            "resultado": "CUMPLIDO PARCIALMENTE. Implementó las 'manzanas de cuidado' en Bogotá, una de sus banderas más reconocidas. Sin embargo, la cobertura fue limitada y la sostenibilidad financiera fue cuestionada.",
+            "fuente": "Informes de gestión Alcaldía de Bogotá 2020-2023"
+          },
+          {
+            "promesa": "Todos a la U — becas de educación superior",
+            "resultado": "CUMPLIDO. Programa implementado en Bogotá con resultados verificables. Ahora lo propone a escala nacional como bandera central de su programa.",
+            "fuente": "Informes de gestión Alcaldía de Bogotá"
+          },
+          {
+            "promesa": "Primera línea del Metro de Bogotá",
+            "resultado": "CONTROVERSIA. Generó tensión permanente con el gobierno Duque sobre el modelo de metro (subterráneo vs. elevado). La obra arrancó pero con retrasos y sobrecostos. Claudia culpó al gobierno nacional; el gobierno nacional la culpó a ella.",
+            "fuente": "Contraloría de Bogotá, medios verificables 2021-2023"
+          },
+          {
+            "promesa": "Reducir homicidios en Bogotá",
+            "resultado": "CUMPLIDO PARCIALMENTE. La tasa de homicidios en Bogotá se mantuvo relativamente estable durante su mandato, aunque otras modalidades de violencia como el hurto aumentaron en ciertos períodos.",
+            "fuente": "Informes de seguridad SIEDCO, Policía Nacional"
+          },
+          {
+            "promesa": "Gestión de la pandemia COVID-19",
+            "resultado": "MIXTO. Bogotá fue pionera en cuarentenas y medidas preventivas. Sin embargo, la gestión de los picos de contagio generó críticas por restricciones consideradas excesivas y por la gestión de los hospitales distritales.",
+            "fuente": "Informes Secretaría de Salud de Bogotá, medios verificables"
+          },
+          {
+            "promesa": "Relación con el Concejo de Bogotá",
+            "resultado": "FALLIDO. Su mandato fue marcado por bloqueos frecuentes del Concejo, incluyendo el hundimiento del Plan de Desarrollo en primera instancia. Su estilo confrontacional generó coaliciones en su contra.",
+            "fuente": "Registros del Concejo de Bogotá, medios verificables 2020-2023"
+          }
+        ],
+        "fuente": ""
+      },
+      "posiciones_test_afinidad": {
+        "economia": {
+          "pregunta": "¿Cuál debería ser la política de impuestos empresariales?",
+          "posicion": "C",
+          "descripcion": "Mantener impuestos actuales pero reducirlos gradualmente a medida que crece la economía: bajar 2 puntos la tasa de renta por cada punto adicional de crecimiento del PIB.",
+          "cita_respaldo": "La tasa de tributación empresarial de renta bajará 2 puntos por cada punto adicional de crecimiento del PIB y cuando la tasa de inversión privada supere el 20% del PIB. (Plan pág. 13)"
+        },
+        "seguridad": {
+          "pregunta": "¿Cómo debe tratarse a los grupos armados ilegales en Colombia?",
+          "posicion": "B",
+          "descripcion": "Tratarlos exclusivamente como organizaciones criminales sin tratamiento político. Combate frontal con justicia especializada y sin negociaciones.",
+          "cita_respaldo": "Desde el 2016, independientemente de su nombre, solo quedan organizaciones criminales transnacionales. Insistir en mesas de paz solo produce su crecimiento. (Plan pág. 10)"
+        },
+        "campo": {
+          "pregunta": "¿Cuál debería ser la prioridad en el campo colombiano?",
+          "posicion": "C",
+          "descripcion": "Desarrollo agroindustrial regional descentralizado, formalización de tierras y apoyo a campesinos como socios de proyectos productivos, sin redistribución masiva de tierra.",
+          "cita_respaldo": "Los campesinos y dueños de la tierra participen como socios directos de la creación de valor. Se implementará un modelo de asistencia técnica, crédito barato y precio de compra garantizado. (Plan pág. 30)"
+        }
+      }
+    },
+    {
+      "id": "paloma",
+      "candidato": {
+        "nombre": "Paloma Valencia Laserna",
+        "partido": "Centro Democrático",
+        "posicion_politica": "Derecha",
+        "formula_vice": "Juan Daniel Oviedo (exdirector del DANE)",
+        "eslogan": "Colombia Más Grande — Firmeza para estabilizar, Corazón para transformar, Visión para el futuro",
+        "descripcion_perfil": ""
+      },
+      "ejes_tematicos": {
+        "economia_e_impuestos": {
+          "titulo": "Economía e impuestos",
+          "resumen": "Meta de crecimiento del 5% anual con inversión del 25% del PIB. Reducción de impuesto de renta empresarial, eliminación del impuesto al patrimonio y reducción del impuesto predial. Ajuste fiscal sin afectar servicios del Estado. Formalización progresiva como escalera, no como barrera.",
+          "propuestas": [
+            {
+              "propuesta": "Meta de crecimiento del 5% del PIB anual con sector exportador como motor",
+              "detalle": "10.000 millones USD adicionales en exportaciones. Inversión de al menos 25% del PIB. Recuperación del grado de inversión con regla fiscal estricta.",
+              "fuente": "Punto 36 — Superar la crisis de confianza"
+            },
+            {
+              "propuesta": "Reducir impuesto de renta empresarial, eliminar impuesto al patrimonio y reducir impuesto predial",
+              "detalle": "Simplificar el estatuto tributario y eliminar trámites innecesarios del Estado. Los impuestos no ahogarán a la economía.",
+              "fuente": "Punto 39"
+            },
+            {
+              "propuesta": "Reducir el déficit fiscal en $50 billones sin afectar bienes y servicios del Estado",
+              "detalle": "Reducción de burocracia en 25% de gastos de funcionamiento y congelación de OPS en 30%. Meta: déficit controlado respetando la regla fiscal.",
+              "fuente": "Puntos 40 y 107"
+            },
+            {
+              "propuesta": "Atraer al menos 2.000 millones de dólares anuales en inversión extranjera directa",
+              "detalle": "Seguridad jurídica, respeto a los contratos y estabilidad. Refinanciamiento de deuda pública con cooperación internacional y multilaterales.",
+              "fuente": "Puntos 37, 38 y 41"
+            },
+            {
+              "propuesta": "Escalera de la formalidad: formalización progresiva, no como barrera",
+              "detalle": "Registro en Cámara de Comercio gratuito, Invima gratuito, mini régimen simple de tributación. Billeteras digitales para trabajadores informales para construir historial crediticio y derrotar a los 'gota a gota'.",
+              "fuente": "Puntos 85 y 86 — Una Colombia que trabaja, emprende y se enriquece"
+            },
+            {
+              "propuesta": "Diplomacia Comercial de Resultados: embajadores como agentes comerciales",
+              "detalle": "Transformar misiones diplomáticas para que prioricen la venta activa de productos nacionales. Eliminar la 'diplomacia de cocteles' por una de crecimiento económico real.",
+              "fuente": "Punto 42"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "seguridad_y_paz": {
+          "titulo": "Seguridad y paz",
+          "resumen": "Política de Seguridad Total con cuatro pilares. Plan 30-30: 30.000 nuevos militares y 30.000 nuevos policías. Aumento del gasto en defensa a cerca del 4% del PIB. Fumigación de cultivos ilícitos. Sin negociación con estructuras criminales. Reactivar cooperación con EE.UU. tipo Plan Colombia.",
+          "propuestas": [
+            {
+              "propuesta": "Plan 30-30: incorporar 30.000 nuevos militares y 30.000 nuevos policías",
+              "detalle": "Pie de fuerza total de 530.000 hombres. Aumento del gasto en seguridad y defensa en cerca de $20 billones durante el cuatrienio, alcanzando el 4% del PIB. Salto tecnológico con drones de última generación y ciberinteligencia.",
+              "fuente": "Punto 1 — Enfrentar la crisis de seguridad"
+            },
+            {
+              "propuesta": "Fumigación de cultivos ilícitos industriales sin afectar salud ni ecosistemas",
+              "detalle": "Sustitución forzosa y generosa: el campesino acabará los cultivos ilícitos y será apoyado con cultivos lícitos, convirtiéndose en socio de empresas que los transformen. Política antidrogas eficaz en incautación y control de precursores.",
+              "fuente": "Punto 7"
+            },
+            {
+              "propuesta": "Asfixia financiera a los ilegales y extinción de dominio exprés",
+              "detalle": "Los bienes ilícitos se convierten en recursos para el Estado y los programas sociales. Fiscales especializados por estructuras criminales.",
+              "fuente": "Puntos 5 y 9"
+            },
+            {
+              "propuesta": "Liderazgo en el Escudo de las Américas: reactivar cooperación tipo Plan Colombia con EE.UU.",
+              "detalle": "Solicitar integración de Colombia en el Escudo de las Américas. Mando soberano colombiano con financiamiento y capacitación internacional.",
+              "fuente": "Puntos 43 y 44"
+            },
+            {
+              "propuesta": "Cero impunidades: cárceles agropecuarias para resocializar, no solo castigar",
+              "detalle": "Construcción de 22.000 cupos penitenciarios y 19.000 carcelarios con trabajo obligatorio. Bloqueo total de comunicaciones en cárceles para acabar extorsión. Ley de endurecimiento de penas para reincidentes.",
+              "fuente": "Puntos 8, 9, 14 y 15"
+            },
+            {
+              "propuesta": "Firmeza democrática regional: rechazo a dictaduras y apoyo a reconstrucción de Venezuela",
+              "detalle": "Postura clara de rechazo a regímenes autocráticos en la región. Colombia como aliado fundamental en la transición democrática venezolana.",
+              "fuente": "Punto 46"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "salud": {
+          "titulo": "Salud",
+          "resumen": "Inyección de 9 billones para estabilizar el sistema. Resolver 10 millones de atenciones represadas en los primeros 100 días. Sistema mixto y solidario que preserva EPS pero las reforma. Telemedicina rural con hospitales padrinos en los 32 departamentos.",
+          "propuestas": [
+            {
+              "propuesta": "Resolver 10 millones de atenciones represadas en medicamentos, citas y procedimientos en los primeros 100 días",
+              "detalle": "Puesto de Mando Unificado (PMU) 24/7 en Presidencia con todas las entidades del sistema. Compras centralizadas transitorias para medicamentos prioritarios.",
+              "fuente": "Punto 18 — Remediar la salud en crisis"
+            },
+            {
+              "propuesta": "Inyección de 9 billones: 3 para medicamentos y 6 para pagar deudas a clínicas, hospitales y EPS",
+              "detalle": "Pago de la deuda del Estado a prestadores vía titularización con condición de ponerse al día en tratamientos. Ajuste de UPC para 2027 según necesidades reales con premio por resultados.",
+              "fuente": "Punto 20"
+            },
+            {
+              "propuesta": "Hospitales padrinos en los 32 departamentos: el especialista llega al campo, no al revés",
+              "detalle": "100.000 atenciones en zonas rurales por telemedicina. Recuperar el sistema mixto y solidario con participación de entidades públicas y privadas.",
+              "fuente": "Puntos 19 y 21"
+            },
+            {
+              "propuesta": "Mejores condiciones laborales para médicos y enfermeras: pago a tiempo y mejores salarios",
+              "detalle": "Dignificar al personal de salud como condición para que el sistema funcione.",
+              "fuente": "Punto 22"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "educacion": {
+          "titulo": "Educación",
+          "resumen": "Libertad de elección entre colegios públicos y privados de calidad. Docentes que ascienden por mérito, no por antigüedad. ICETEX que no sea trampa de deuda. 1 millón de jóvenes formados en IA. Énfasis en formación técnica y dual para el trabajo.",
+          "propuestas": [
+            {
+              "propuesta": "Libertad de elección educativa: 150.000 bonos y 187.000 cupos gratuitos en colegios de calidad",
+              "detalle": "El futuro de un niño no puede depender del barrio donde nació. PTA 4.0 (Programa Todos a Aprender) adaptado a la revolución de la IA. 10 supercolegios públicos de excelencia.",
+              "fuente": "Punto 56"
+            },
+            {
+              "propuesta": "Docentes ascienden por mérito, no por antigüedad",
+              "detalle": "Incentivos a instituciones educativas reflejados en mejoramiento de condiciones docentes. Becas por mérito académico.",
+              "fuente": "Punto 58"
+            },
+            {
+              "propuesta": "ICETEX sin trampa de deuda: créditos se pagan solo cuando hay trabajo y según el salario",
+              "detalle": "Transformar el modelo de crédito educativo para que no sea una condena financiera para los jóvenes.",
+              "fuente": "Punto 59"
+            },
+            {
+              "propuesta": "1 millón de jóvenes formados en inteligencia artificial con internet gratuito incluido",
+              "detalle": "Para trabajar con empresas internacionales desde cualquier municipio. Ruta 3E: Estudiar, Emplearse o Emprender.",
+              "fuente": "Puntos 55 y 60"
+            },
+            {
+              "propuesta": "Formación dual desde noveno grado entre ITT y empresas",
+              "detalle": "Subsidio al primer empleo juvenil: 30% del salario mínimo por 12 meses. 40% por 18 meses en territorios PDET. Prioridad a mujeres jóvenes jefas de hogar.",
+              "fuente": "Puntos 61 y 62"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "medio_ambiente": {
+          "titulo": "Medio ambiente",
+          "resumen": "Restaurar 1 millón de hectáreas y frenar la deforestación. Reforestar 300.000 hectáreas comerciales. Aumentar bioeconomía del 0.8% al 2% del PIB. Crecer y conservar no son opuestos: los recursos minero-energéticos financian la conservación. Fumigación con criterio ambiental.",
+          "propuestas": [
+            {
+              "propuesta": "Restaurar 1 millón de hectáreas y frenar la deforestación (14 hectáreas de bosque por hora hoy)",
+              "detalle": "60% de la restauración en Amazonía y Chocó biogeográfico. 40% en regiones andina y costa. Familias guardabosques con pago del Estado, incluidos cuidadores de páramos.",
+              "fuente": "Punto 99 — Una Colombia que cuida su medio ambiente"
+            },
+            {
+              "propuesta": "Las regalías vuelven al sector ambiental",
+              "detalle": "Los recursos generados por explotación legal de minas, petróleo, energía y gas financian el cuidado de la naturaleza. Crecer y conservar no son opuestos: lo uno financia lo otro.",
+              "fuente": "Punto 100"
+            },
+            {
+              "propuesta": "Aumentar la bioeconomía del 0.8% al 2% del PIB en 4 años",
+              "detalle": "Biodiversidad como fuente de riqueza legal. Restaurar 1 millón de corales beneficiando pescadores y comunidades costeras en ambos océanos.",
+              "fuente": "Puntos 103 y 104"
+            },
+            {
+              "propuesta": "Reactivar explotación de petróleo, gas y carbón con meta de 1 millón de barriles por día",
+              "detalle": "Colombia tiene derecho a aprovechar lo que tiene. El gas es asunto estratégico. Impulsará el fracking. La responsabilidad climática de Colombia es frenar la deforestación, no dejar de explotar recursos.",
+              "fuente": "Puntos 26 y 27"
+            },
+            {
+              "propuesta": "Energías alternativas: eólica, solar, biomasa, geotérmica, hidrógeno y nuclear",
+              "detalle": "Plan de choque para proyectos de generación ya viabilizados. Bases para energía confiable y barata durante 20 años. 1 millón de familias dejarán de cocinar con leña.",
+              "fuente": "Puntos 23, 27 y 29"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "anticorrupcion_e_instituciones": {
+          "titulo": "Anticorrupción e instituciones",
+          "resumen": "Contratación en vitrina con blockchain en tiempo real. Guardián de integridad elegido por funcionarios. Cero cargos para condenados por corrupción. Premio Nacional de Integridad Pública. Estado plataforma con IA para eliminar cuellos de botella burocráticos.",
+          "propuestas": [
+            {
+              "propuesta": "Contratación en vitrina: blockchain en tiempo real para toda la contratación pública",
+              "detalle": "Cada etapa visible, trazable y abierta al escrutinio ciudadano. API para que cualquier ciudadano, medio o veeduría haga seguimiento. Analítica de datos para alertas tempranas de irregularidades.",
+              "fuente": "Punto 52 — Desactivar la bomba de la corrupción"
+            },
+            {
+              "propuesta": "Línea roja absoluta: cero cargos para condenados por corrupción o dineros ilegales",
+              "detalle": "La filiación política no da carta blanca. La presidente tendrá correo personal para recibir denuncias que ella personalmente perseguirá.",
+              "fuente": "Puntos 47 y 54"
+            },
+            {
+              "propuesta": "Guardián de integridad elegido por los propios funcionarios",
+              "detalle": "Canal de confianza para orientar, prevenir riesgos y acompañar decisiones difíciles. Premio Nacional de Integridad Pública. Cláusula de conciencia para quienes se nieguen a participar en actos indebidos.",
+              "fuente": "Punto 53"
+            },
+            {
+              "propuesta": "Estado plataforma con IA: Plan Nacional de Inteligencia Artificial 'AI first'",
+              "detalle": "Blockchain para títulos y contratación, IA para eliminar cuellos de botella burocráticos, big data para decisiones regulatorias. Reducción de ministerios y entidades en 25%.",
+              "fuente": "Puntos 107 y 108"
+            },
+            {
+              "propuesta": "Auditoría forense inmediata a entidades intervenidas, empezando por la Nueva EPS",
+              "detalle": "Las empresas también responden: la corrupción es asunto de todos, públicos y privados.",
+              "fuente": "Punto 51"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "relaciones_internacionales": {
+          "titulo": "Relaciones internacionales",
+          "resumen": "Diplomacia Comercial de Resultados. Integración en el Escudo de las Américas. Rechazo a dictaduras regionales. Apoyo a reconstrucción de Venezuela. Relación con China bajo libre competencia con evaluación rigurosa de la 'Franja y la Ruta'.",
+          "propuestas": [
+            {
+              "propuesta": "Diplomacia Comercial de Resultados: embajadores como agentes de venta de productos colombianos",
+              "detalle": "Eliminar la 'diplomacia de cocteles'. Plan Turismo 12M: abrir cielos para vuelos desde Europa y Asia. Meta de 12 millones de visitantes para 2030.",
+              "fuente": "Puntos 42 y 88"
+            },
+            {
+              "propuesta": "Integración en el Escudo de las Américas con apoyo de EE.UU. tipo Plan Colombia",
+              "detalle": "Para combatir narcotráfico con apoyo tecnológico. Mando operativo soberano colombiano. Reactivar cooperación en inteligencia y desarrollo de capacidades.",
+              "fuente": "Puntos 6, 43 y 44"
+            },
+            {
+              "propuesta": "Rechazo a dictaduras regionales y apoyo a reconstrucción de Venezuela",
+              "detalle": "Postura clara frente a regímenes autocráticos. Colombia como aliado fundamental en la transición venezolana.",
+              "fuente": "Punto 46"
+            },
+            {
+              "propuesta": "Relación con China bajo libre competencia: evaluación rigurosa de la 'Franja y la Ruta'",
+              "detalle": "Garantizar condiciones de acceso real para productos colombianos y que contratos se ganen bajo reglas transparentes.",
+              "fuente": "Punto 45"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "vivienda_y_campo": {
+          "titulo": "Vivienda y campo",
+          "resumen": "1 millón de viviendas nuevas con Mi Casa Ya 2.0. 1 millón de hogares con nuevo acceso a agua potable. 3 millones de hectáreas formalizadas. Plan vial campesino con 35.000 km de intervención. Zonas francas rurales y agroindustria.",
+          "propuestas": [
+            {
+              "propuesta": "1 millón de viviendas nuevas con 250.000 subsidios: Mi Casa Ya 2.0 y Casa Semilla rural",
+              "detalle": "Para familias de menores ingresos. Programa Semillero de Propietarios. 4.9 millones de hogares con déficit habitacional hoy.",
+              "fuente": "Punto 96 — Vivienda y agua potable"
+            },
+            {
+              "propuesta": "1 millón de hogares con nuevo acceso a agua potable y saneamiento básico",
+              "detalle": "3 millones de personas sin acceso a agua potable segura hoy. Incentivos a empresas de servicios públicos y fortalecimiento de acueductos rurales.",
+              "fuente": "Punto 97"
+            },
+            {
+              "propuesta": "3 millones de hectáreas formalizadas para que campesinos aprovechen sus tierras",
+              "detalle": "1 millón de nuevas áreas en cultivos y agroindustria con zonas francas rurales. La titulación como herramienta de productividad.",
+              "fuente": "Puntos 83 y 84"
+            },
+            {
+              "propuesta": "Plan vial campesino: intervención de 35.000 km de vías rurales",
+              "detalle": "10.000 km de nuevas vías terciarias y 25.000 km de mantenimiento con maquinaria amarilla pagada por el gobierno nacional al servicio de los alcaldes.",
+              "fuente": "Punto 88 — Desarrollo de infraestructura"
+            },
+            {
+              "propuesta": "La gran mayoría de los títulos de tierra estarán a nombre de las mujeres",
+              "detalle": "Para empoderarlas y protegerlas de la violencia intrafamiliar. Inversión de 2 millones de pesos por mujer emprendedora para capital semilla.",
+              "fuente": "Puntos 87 y 92"
+            }
+          ],
+          "fuente_pagina": ""
+        }
+      },
+      "sapos_electorales": [
+        {
+          "sapo": "Propone reactivar el fracking y la explotación de petróleo y carbón sin restricciones ideológicas",
+          "detalle": "El punto 26 plantea explícitamente 'reactivaremos la explotación de combustibles fósiles e impulsaremos el fracking'. Para quienes priorizan la transición energética, esto es un retroceso significativo.",
+          "fuente": "Punto 26 — Solucionar la crisis energética"
+        },
+        {
+          "sapo": "La consulta previa no puede ser un veto: propone acelerar proyectos aún contra la voluntad de comunidades étnicas",
+          "detalle": "El punto 35 replantea la consulta previa como mecanismo de gestión de impactos, no de consentimiento. Las comunidades serían 'socias de los proyectos', no veto sobre ellos.",
+          "fuente": "Punto 35 — Institucionalidad ágil"
+        },
+        {
+          "sapo": "Reactivar cooperación tipo Plan Colombia con EE.UU. implica dependencia de agenda exterior",
+          "detalle": "La propuesta de integrarse al Escudo de las Américas y reactivar el Plan Colombia supone alinear la política de seguridad colombiana con prioridades de Washington.",
+          "fuente": "Punto 43"
+        },
+        {
+          "sapo": "La regulación de la protesta social puede criminalizar la movilización ciudadana",
+          "detalle": "El punto 17 propone una ley que regule la protesta social y castigue el vandalismo, lo que varios sectores interpretan como restricción al derecho de protesta.",
+          "fuente": "Punto 17"
+        },
+        {
+          "sapo": "Sin cargo ejecutivo previo: senadora con experiencia legislativa pero sin gestión de gobierno",
+          "detalle": "Su experiencia es como congresista, no como ejecutora de política pública. La implementación de 111 puntos requiere capacidad de gestión que no ha tenido oportunidad de demostrar.",
+          "fuente": "Perfil público verificado"
+        }
+      ],
+      "citas_textuales": [
+        {
+          "tema": "Seguridad",
+          "cita": "Colombia no puede seguir siendo un país donde el miedo manda más que el Estado.",
+          "contexto": "Introducción a su propuesta de seguridad",
+          "fuente": "Punto 1 — Enfrentar la crisis de seguridad"
+        },
+        {
+          "tema": "Economía / Estado",
+          "cita": "Primero se aprieta el Estado, no la gente.",
+          "contexto": "Sobre su propuesta de reducción del aparato burocrático",
+          "fuente": "Punto 10 — Un Estado al servicio de la gente"
+        },
+        {
+          "tema": "Medio ambiente / Energía",
+          "cita": "Colombia tiene derecho a aprovechar lo que tiene, y es imperativo que lo haga para poder abordar su verdadera responsabilidad en el cambio climático: detener la deforestación.",
+          "contexto": "Justificando su posición sobre explotación de combustibles fósiles",
+          "fuente": "Punto 3 — Solucionar la crisis energética"
+        },
+        {
+          "tema": "Medio ambiente",
+          "cita": "Crecer y conservar no son opuestos: bien hecho, lo uno hace posible lo otro.",
+          "contexto": "Sobre la relación entre desarrollo económico y conservación ambiental",
+          "fuente": "Punto 9 — Una Colombia que cuida su medio ambiente"
+        },
+        {
+          "tema": "Anticorrupción",
+          "cita": "Cuando todo es visible, el robo se vuelve imposible de ocultar.",
+          "contexto": "Sobre su propuesta de contratación pública en blockchain",
+          "fuente": "Punto 52"
+        },
+        {
+          "tema": "Institucionalidad",
+          "cita": "La filiación política no importa: la inversión y los servicios del Estado llegan a todos los ciudadanos en función de sus necesidades. En esta Colombia cabemos todos.",
+          "contexto": "Sobre la asignación del presupuesto de inversión regional",
+          "fuente": "Punto 112"
+        }
+      ],
+      "promesas_vs_realidad": {
+        "aplica": true,
+        "cargo_previo": "Senadora de la República — Centro Democrático (varios períodos)",
+        "logros": [
+          "Impulsó debates de control político sobre corrupción y mal manejo de recursos públicos",
+          "Defendió la reforma estructural a la financiación política desde el Congreso (punto 49 de su propio plan)",
+          "Conocida por su trabajo técnico y basado en datos como senadora"
+        ],
+        "criticas": [
+          "Como senadora del Centro Democrático respaldó posiciones del uribismo que generaron controversia, incluyendo cuestionamientos a la JEP y al proceso de paz",
+          "Su partido ha sido asociado históricamente con prácticas de 'mermelada' que ella misma critica en su plan (punto 111)",
+          "No tiene experiencia de gestión ejecutiva: toda su carrera ha sido legislativa"
+        ],
+        "fuente": "Registros del Congreso de la República, medios verificables y el propio plan de gobierno"
+      },
+      "posiciones_test_afinidad": {
+        "economia": {
+          "pregunta": "¿Cuál debería ser el rol del Estado en la economía?",
+          "posicion": "C",
+          "descripcion": "Estado pequeño, eficiente y al servicio de la gente. Reducir impuestos y burocracia, atraer inversión privada, pero con gasto social focalizado y protección a los más vulnerables.",
+          "cita_respaldo": "Pequeño no significa débil; significa menos grasa burocrática y más capacidad de respuesta social. Primero se aprieta el Estado, no la gente. (Punto 10)"
+        },
+        "seguridad": {
+          "pregunta": "¿Cómo debe enfrentarse el problema de los grupos armados?",
+          "posicion": "C",
+          "descripcion": "Ofensiva militar robusta con salto tecnológico, cooperación internacional y asfixia financiera a los ilegales. Sustitución de cultivos con apoyo real al campesino.",
+          "cita_respaldo": "Colombia no puede seguir siendo un país donde el miedo manda más que el Estado. Plan 30-30: 30.000 nuevos militares y 30.000 nuevos policías. (Punto 1)"
+        },
+        "medio_ambiente": {
+          "pregunta": "¿Cómo debe Colombia enfrentar el cambio climático?",
+          "posicion": "C",
+          "descripcion": "Explotar los recursos naturales disponibles financiando con esas regalías la conservación ambiental. La responsabilidad de Colombia es frenar la deforestación, no la explotación de petróleo.",
+          "cita_respaldo": "Colombia tiene derecho a aprovechar lo que tiene. Las regalías vuelven al sector ambiental. Crecer y conservar no son opuestos. (Puntos 26 y 100)"
+        }
+      }
+    },
+    {
+      "id": "fajardo",
+      "candidato": {
+        "nombre": "Sergio Fajardo Valderrama",
+        "partido": "Dignidad y Compromiso",
+        "posicion_politica": "Centro",
+        "formula_vice": "Por confirmar (el documento no especifica fórmula VP)",
+        "eslogan": "Este es el Momento — Somos el cambio con esperanza",
+        "descripcion_perfil": ""
+      },
+      "ejes_tematicos": {
+        "economia_e_impuestos": {
+          "titulo": "Economía e impuestos",
+          "resumen": "Transformación estructural del aparato productivo colombiano alejándose del extractivismo. Triplicar inversión en I+D al 1% del PIB. Reforma tributaria progresiva que recaude 32.9 billones adicionales llevando el recaudo al promedio latinoamericano. Formalización de 1 millón de Mipymes.",
+          "propuestas": [
+            {
+              "propuesta": "Transformación estructural: dejar atrás la dependencia del petróleo y el carbón",
+              "detalle": "Estructura exportadora más diversificada y competitiva. Sectores con potencial para generar empleo, seguridad alimentaria y sostenibilidad ambiental. La economía estará al servicio de todos, no de unos pocos.",
+              "fuente": "Sección Política Económica — Estrategia de Desarrollo Productivo"
+            },
+            {
+              "propuesta": "Triplicar inversión en ciencia, tecnología e innovación: del 0.3% al 1% del PIB en 4 años",
+              "detalle": "Fondo público-privado de CTI. Cinco Centros de Investigación e Innovación: agropecuaria (Agrosavia), industria y servicios, energías y cambio climático, salud y bioeconomía. Acuerdo nacional por la financiación con sector público, empresas, universidades y sociedad civil.",
+              "fuente": "Sección Ciencia, Tecnología e Innovación / Política Económica"
+            },
+            {
+              "propuesta": "Reforma tributaria progresiva: recaudar 32.9 billones adicionales",
+              "detalle": "Llevar el recaudo del 19.7% al 22.9% del PIB (promedio latinoamericano). Impuesto al patrimonio: 1% sobre $5.000M y 2% sobre $10.000M. Subir dividendos del 10% al 15%. Impuestos saludables (bebidas azucaradas) e impuestos verdes (carbono, carbón, plásticos).",
+              "fuente": "Sección Reforma Tributaria — Política Económica"
+            },
+            {
+              "propuesta": "PROMIPYME: formalización de 1 millón de Mipymes",
+              "detalle": "En alianza con gobiernos locales, ACOPI y Cámaras de Comercio. Líneas de crédito asociativo, capacitación y emprendimiento. Fábricas de Productividad para al menos 100.000 empresas.",
+              "fuente": "Sección Política Económica — El papel activo de las empresas"
+            },
+            {
+              "propuesta": "Reforma pensional: $500.000 mensuales a todos los adultos mayores de 65 sin pensión",
+              "detalle": "3.8 millones de personas mayores beneficiadas. Financiado con impuestos progresivos, no con el ahorro de los colombianos. Los 2 primeros salarios mínimos cotizan en Colpensiones.",
+              "fuente": "Sección Reforma Pensional y Protección a la Vejez"
+            },
+            {
+              "propuesta": "440.000 nuevos empleos públicos en el periodo de gobierno mediante 4.000 proyectos",
+              "detalle": "Continuidad a grandes proyectos de infraestructura. Ingreso básico: ajuste de transferencias condicionadas (Familias en Acción, Jóvenes en Acción) al IPC.",
+              "fuente": "Sección Ingreso Básico y Empleo de Emergencia"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "seguridad_y_paz": {
+          "titulo": "Seguridad y paz",
+          "resumen": "Seguridad construida con la gente, no contra la gente. Cumplimiento integral del Acuerdo de Paz. Sustitución voluntaria de cultivos. Creación del Ministerio de Seguridad y Convivencia Ciudadana para dar carácter civil a la Policía. Sin operativos de mano dura como política principal.",
+          "propuestas": [
+            {
+              "propuesta": "Cumplimiento integral del Acuerdo de Paz como eje central de la seguridad",
+              "detalle": "La paz será un factor de cohesión, no de división. Implementación integral, con énfasis en el capítulo de desarrollo rural integral. Garantía y respeto a la independencia de la JEP y la Comisión de la Verdad.",
+              "fuente": "Sección Seguridad, Defensa y Construcción de Paz"
+            },
+            {
+              "propuesta": "Creación del Ministerio de Seguridad y Convivencia Ciudadana para civilizar la Policía",
+              "detalle": "ESMAD con capacitación en DD.HH., aspectos sociales y relacionamiento con comunidades. Profesionalizar la carrera policial y militar con eje en respeto por los derechos humanos.",
+              "fuente": "Sección Reformas Institucionales — Seguridad"
+            },
+            {
+              "propuesta": "Política de drogas basada en sustitución voluntaria y usos alternativos de la coca",
+              "detalle": "Persecución de los eslabones de mayor valor dentro de la cadena criminal del narcotráfico. Reconocimiento e impulso de los usos ancestrales, medicinales y nutricionales de la coca. Regulación de cultivos ilícitos que mueven el dinero en deforestación y lavado.",
+              "fuente": "Sección Seguridad / Pueblos Indígenas"
+            },
+            {
+              "propuesta": "Programa Entornos Protectores: mejorar condiciones de 250.000 jóvenes en 170 municipios",
+              "detalle": "En municipios con más violencia y pobreza y 10 ciudades con mayores índices de criminalidad. Enfoque en factores individuales (salud mental, estima, empatía) y sociales que facilitan el ingreso a la ilegalidad.",
+              "fuente": "Sección Entornos Protectores"
+            },
+            {
+              "propuesta": "Estrategias de combate diferenciadas por contexto territorial",
+              "detalle": "Diseñadas con las Fuerzas Militares según las afectaciones reales de seguridad de cada comunidad. Reconstrucción de confianza de la población civil hacia la fuerza pública.",
+              "fuente": "Sección Seguridad — En el territorio"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "salud": {
+          "titulo": "Salud",
+          "resumen": "Modelo territorial en salud que articula EPS, IPS y secretarías en cada municipio. Liquidación de EPS que no cumplan indicadores. Dignificación del talento humano en salud eliminando la tercerización. Telemedicina e historia clínica electrónica con fibra óptica.",
+          "propuestas": [
+            {
+              "propuesta": "Modelo territorial en salud: articulación real entre todos los actores del sistema en cada municipio",
+              "detalle": "EPS, IPS y secretarías distritales, municipales y departamentales trabajando coordinadamente. Rectoría fortalecida en los niveles nacional y territorial. Gobernanza integrada del aseguramiento.",
+              "fuente": "Sección Salud"
+            },
+            {
+              "propuesta": "Liquidación de EPS que no cumplan indicadores de sostenibilidad y calidad",
+              "detalle": "Fondo de garantías económicas del aseguramiento para evitar el desequilibrio financiero. Mecanismos meritocráticos para elegir interventores y liquidadores.",
+              "fuente": "Sección Salud"
+            },
+            {
+              "propuesta": "Dignificar el talento humano en salud: contratación directa sin tercerización",
+              "detalle": "Actualmente cerca del 80% del personal de salud está contratado por empresas intermediarias. Incentivos para trabajadores de salud en zonas rurales y rurales dispersas.",
+              "fuente": "Sección Salud"
+            },
+            {
+              "propuesta": "Telemedicina e historia clínica electrónica con fibra óptica en todos los hospitales",
+              "detalle": "Fibra óptica a todos los colegios, hospitales, negocios y estrados. Parte de la estrategia de Pobreza Digital Cero.",
+              "fuente": "Sección TICs e Innovación"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "educacion": {
+          "titulo": "Educación",
+          "resumen": "La propuesta más desarrollada del plan: educación es el eje central de todo el programa. Colombia STEAM, Plan de Matemáticas, Universidad Pública Digital, reforma al SENA y al Icetex, Nueva Generación Rural. 1.5 millones de jóvenes que no estudian ni trabajan como prioridad.",
+          "propuestas": [
+            {
+              "propuesta": "Colombia STEAM: ciencias, tecnología, ingenierías, artes y matemáticas como prioridad nacional",
+              "detalle": "Redes de maestros STEAM, olimpiadas del conocimiento, STEAM en espacios públicos. Preparar jóvenes para carreras universitarias y empleos STEAM. Basado en la experiencia exitosa en Alcaldía de Medellín y Gobernación de Antioquia.",
+              "fuente": "Sección Colombia STEAM"
+            },
+            {
+              "propuesta": "Universidad Pública Digital: llevar programas de alta calidad a todo el país",
+              "detalle": "Retoma lo mejor de la UNAD. Clases en vivo con profesores de universidades públicas y privadas de mayor calidad. Nuevas sedes en todo el país. 100.000 beneficiarios iniciales.",
+              "fuente": "Sección Educación Superior"
+            },
+            {
+              "propuesta": "Reforma al SENA: aumentar empleabilidad de egresados del 54% al 75%",
+              "detalle": "Mejorar calidad y pertinencia de programas respondiendo a necesidades empresariales. 150.000 nuevos aprendices en 4 años. Articulación con el sector privado por región.",
+              "fuente": "Sección Educación Superior / Política Económica"
+            },
+            {
+              "propuesta": "Jóvenes en el centro: ofrecer alternativas a 1.5 millones de jóvenes que no estudian ni trabajan",
+              "detalle": "Ampliar Jóvenes en Acción a 1 millón de beneficiarios. 10.000 mentores para acompañar rutas de empleo. Reducir brecha de desempleo para mujeres jóvenes a la mitad.",
+              "fuente": "Sección Jóvenes en el Centro de las Oportunidades"
+            },
+            {
+              "propuesta": "Nueva Generación Rural: trayectorias educativas completas para niños y jóvenes rurales",
+              "detalle": "Desde la primera infancia hasta la educación superior en sus propios territorios. Currículos que reconozcan los intereses y características culturales de las comunidades rurales.",
+              "fuente": "Sección Ruralidad — Educación"
+            },
+            {
+              "propuesta": "Reforma al Icetex: créditos con pagos contingentes al ingreso, no deudas impagables",
+              "detalle": "El Icetex también otorgará becas, incorporará donaciones y apoyará a universidades con recursos de fomento.",
+              "fuente": "Sección Educación Superior"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "medio_ambiente": {
+          "titulo": "Medio ambiente",
+          "resumen": "El plan ambiental más completo y detallado de los seis candidatos. Cuatro ejes: deforestación, biodiversidad, cambio climático y gobernanza hídrica. Meta: eliminar la deforestación para 2030, reducirla 50% para 2026. Transición energética justa sin petróleo ni carbón nuevos.",
+          "propuestas": [
+            {
+              "propuesta": "Eliminar la deforestación para 2030: reducirla en al menos 50% para 2026",
+              "detalle": "Restaurar 1 millón de hectáreas en el cuatrienio. Programa de Pago por Servicios Ambientales en 300.000 hectáreas adicionales. Plan Nacional de Zonificación Ambiental al 100%.",
+              "fuente": "Sección Ambiente — Colombia lucha contra la deforestación"
+            },
+            {
+              "propuesta": "Proteger al menos el 30% de ecosistemas terrestres y 30% de los marinos",
+              "detalle": "Colombia cubre el 1% de la superficie y alberga más del 10% de las especies del planeta. Impulsar la bioeconomía como fundamento del desarrollo. Corredores de conectividad biológica.",
+              "fuente": "Sección Ambiente — Colombia biodiversa"
+            },
+            {
+              "propuesta": "Transición energética justa: renovables al 30% o más de la capacidad instalada en 2026",
+              "detalle": "Sin nuevas exploraciones de petróleo ni carbón. Masificación de energía solar distribuida. Llevar energía a 430.000 colombianos sin acceso. Transición de gasodomésticos a electrodomésticos. Nuevas edificaciones Neto Cero Carbono para 2030.",
+              "fuente": "Sección Transición Energética"
+            },
+            {
+              "propuesta": "Gobernanza hídrica: protección de páramos con oportunidades laborales para comunidades",
+              "detalle": "Recuperación integral del Río Magdalena. Incentivos económicos al uso eficiente del agua. Protección de ecosistemas acuáticos. Fortalecimiento del manejo sostenible de los océanos.",
+              "fuente": "Sección Ambiente — Gobernanza hídrica"
+            },
+            {
+              "propuesta": "Política minera diferenciada: formalización de pequeña minería, persecución de la ilegal",
+              "detalle": "Gran Diálogo Nacional Minero-Energético. Eliminación del mercurio en minería del oro. Fortalecimiento de la UNIMIL. Licenciamiento ambiental obligatorio desde la fase de exploración.",
+              "fuente": "Sección Política Minera"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "anticorrupcion_e_instituciones": {
+          "titulo": "Anticorrupción e instituciones",
+          "resumen": "Agencia Nacional de Prevención y Lucha contra la Corrupción con autonomía. Nombramientos por mérito. Prioridad a víctimas de la corrupción. Enfoque en sectores donde más duele: salud, educación, agua, desarrollo rural. Reforma política y a los organismos de control.",
+          "propuestas": [
+            {
+              "propuesta": "Transformar la Secretaría de Transparencia en Agencia Nacional anticorrupción autónoma",
+              "detalle": "Con autonomía administrativa y financiera para liderar, coordinar y hacer más efectiva la lucha anticorrupción. Alinear la agenda anticorrupción con la lucha contra el crimen organizado transnacional.",
+              "fuente": "Sección Lucha contra la corrupción y el clientelismo"
+            },
+            {
+              "propuesta": "Priorizar las víctimas de la corrupción para reparar el daño colectivo",
+              "detalle": "No solo prevenir y denunciar: también recuperar activos robados y fortalecer los procesos de judicialización desde la perspectiva de las víctimas.",
+              "fuente": "Sección Anticorrupción"
+            },
+            {
+              "propuesta": "Nombramientos por mérito y acceso a información como pilares del Estado eficiente",
+              "detalle": "Fortalecimiento de la calidad del empleo público. Profundización de la transparencia y el control a la contratación pública. Agendas del Presidente, ministros y directivos públicas y accesibles.",
+              "fuente": "Sección Anticorrupción / TICs e Innovación"
+            },
+            {
+              "propuesta": "Reforma a la 'puerta giratoria': inhabilidad permanente para exservidores del Ejecutivo",
+              "detalle": "Que no puedan pasar a los órganos de control ni las cabezas de control puedan ser candidatos a la Presidencia u otros cargos de elección popular.",
+              "fuente": "Sección Justicia"
+            },
+            {
+              "propuesta": "100% de despachos y procesos judiciales digitalizados al final del cuatrienio",
+              "detalle": "Redistribución inteligente de capacidades judiciales. Bajar la tasa de impunidad que llega al 98%. Unidades Móviles de Justicia especialmente en áreas rurales.",
+              "fuente": "Sección Justicia"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "relaciones_internacionales": {
+          "titulo": "Relaciones internacionales",
+          "resumen": "Política exterior de Estado que trascienda gobiernos. Multilateralismo y defensa de la democracia. Relación con EE.UU. reanimada, vínculos robustos con Europa, profundización con China y apertura a Asia. Liderazgo ambiental como eje fundamental de la política exterior.",
+          "propuestas": [
+            {
+              "propuesta": "Política exterior de Estado: multilateralismo e integración regional como norte",
+              "detalle": "Política ajena a intereses particulares que trascienda los gobiernos. Defensa de la democracia, el estado de derecho y los derechos humanos.",
+              "fuente": "Sección Relaciones Internacionales"
+            },
+            {
+              "propuesta": "Reanimar la relación con EE.UU. y profundizar vínculos con la Unión Europea",
+              "detalle": "EE.UU. como socio vital para los intereses hemisféricos y globales. Europa como interlocutor central para la consolidación de la paz.",
+              "fuente": "Sección Relaciones Internacionales"
+            },
+            {
+              "propuesta": "Profundizar la relación con China y abrirse con audacia al continente asiático",
+              "detalle": "Potencias grandes y medianas, el gran Pacífico y la región Indo-pacífica para integración, diversificación comercial y cooperación. África en la agenda externa.",
+              "fuente": "Sección Relaciones Internacionales"
+            },
+            {
+              "propuesta": "Liderazgo ambiental como eje de la política exterior",
+              "detalle": "La biodiversidad de Colombia la llama a ejercer liderazgo global en mitigación y adaptación al cambio climático, protección del medioambiente y desarrollo sostenible.",
+              "fuente": "Sección Relaciones Internacionales"
+            }
+          ],
+          "fuente_pagina": ""
+        },
+        "vivienda_y_campo": {
+          "titulo": "Vivienda y campo",
+          "resumen": "1.2 millones de soluciones de vivienda incluyendo mejoramiento y arriendo. Acuerdo de Paz como eje del desarrollo rural: 3 millones de hectáreas del acuerdo y formalización de 7 millones. Catastro multipropósito en todo el país. Sistema Nacional de Cuidados en el campo.",
+          "propuestas": [
+            {
+              "propuesta": "1.2 millones de soluciones de vivienda: nueva, mejoramiento habitacional y arriendo",
+              "detalle": "Titulación de propiedad en zonas urbanas y rurales. Mi Casa Ya con metas específicas en regiones con mayor déficit. Macroproyectos de Interés Social Nacional. 1 millón de personas adicionales con acueducto y alcantarillado.",
+              "fuente": "Sección Vivienda"
+            },
+            {
+              "propuesta": "Implementar los compromisos rurales del Acuerdo de Paz: 3 millones de hectáreas",
+              "detalle": "Formalización de las 7 millones de hectáreas del Acuerdo. Catastro multipropósito en todo el país. Creación de la Jurisdicción Agraria. Nuevo impulso a los PDET corrigiendo fallas de implementación.",
+              "fuente": "Sección Desarrollo Rural y Construcción de Paz"
+            },
+            {
+              "propuesta": "Fortalecer Agrosavia como centro de investigación agropecuaria sostenible",
+              "detalle": "Mayor énfasis en prácticas ambientalmente sostenibles y tecnologías digitales. Ampliación de escuelas de campo (ECAS) y extensionistas. Política de protección de semillas.",
+              "fuente": "Sección Desarrollo Rural"
+            },
+            {
+              "propuesta": "Sistema Nacional de Cuidados llevado al campo: prioridad a mujeres en tierras",
+              "detalle": "Priorizar mujeres en la entrega y formalización de tierras para cerrar brechas de género. Fomentar el agroturismo y ecoturismo como fuentes de ingresos rurales.",
+              "fuente": "Sección Desarrollo Rural"
+            }
+          ],
+          "fuente_pagina": ""
+        }
+      },
+      "sapos_electorales": [
+        {
+          "sapo": "El 3% en encuestas hace casi imposible que pase a segunda vuelta: votar por él puede ser un voto de opinión sin incidencia electoral real",
+          "detalle": "Para quienes comparten su visión pero quieren que su voto tenga efecto en el resultado, las encuestas son un argumento en contra. El propio proyecto incluye esta tensión.",
+          "fuente": "Encuesta AtlasIntel mayo 2026"
+        },
+        {
+          "sapo": "Su síntesis de propuestas hace referencia a documentos de la campaña de 2022, lo que genera dudas sobre su actualización para el contexto de 2026",
+          "detalle": "El plan menciona explícitamente 'propuestas-2022' en múltiples enlaces. No queda claro qué ha cambiado y qué se mantiene igual respecto a su candidatura anterior.",
+          "fuente": "Síntesis del Plan de Gobierno — referencias a URLs de 2022"
+        },
+        {
+          "sapo": "Su propuesta de seguridad es la más blanda de todos los candidatos en un momento de alta demanda ciudadana por resultados inmediatos contra el crimen",
+          "detalle": "No hay metas numéricas de reducción de crimen, no hay plan de choque explícito. Para quienes priorizan resultados en seguridad en el corto plazo, su enfoque de largo plazo puede ser insatisfactorio.",
+          "fuente": "Sección Seguridad del plan de gobierno"
+        },
+        {
+          "sapo": "Promesas vs realidad: en la Gobernación de Antioquia fue investigado por el escándalo del proceso de paz de La Habana y su relación con Álvaro Uribe",
+          "detalle": "Su imagen de independencia fue cuestionada por alianzas y rupturas que los electores consideraron inconsistentes. En 2018 no pudo consolidar una coalición que lo llevara a la presidencia.",
+          "fuente": "Registros de medios verificables 2018-2022"
+        },
+        {
+          "sapo": "Su propuesta de reforma tributaria sube impuestos a patrimonios y dividendos, lo que puede generar resistencia del sector empresarial",
+          "detalle": "Impuesto al patrimonio de 1-2% y subida de dividendos del 10% al 15%. Para quienes consideran que Colombia ya tiene carga tributaria alta para las empresas, esto es un freno a la inversión.",
+          "fuente": "Sección Reforma Tributaria — Política Económica"
+        }
+      ],
+      "citas_textuales": [
+        {
+          "tema": "Modelo político / Identidad",
+          "cita": "Colombia va a cambiar, pero es necesario que sea un cambio responsable, que construya sobre lo construido, que proteja las libertades, que sea pragmático, riguroso y que reconozca y respete las diferencias.",
+          "contexto": "Introducción a su plan de gobierno — definiendo su visión de cambio",
+          "fuente": "Introducción del Plan de Gobierno"
+        },
+        {
+          "tema": "Seguridad",
+          "cita": "La seguridad se construye con la gente, no contra la gente.",
+          "contexto": "Sobre su enfoque de seguridad ciudadana",
+          "fuente": "Sección Seguridad — Introducción"
+        },
+        {
+          "tema": "Economía / Seguridad alimentaria",
+          "cita": "Con hambre es imposible aprender, con hambre no hay posibilidades de trabajo, con hambre no se puede construir paz.",
+          "contexto": "Sobre la seguridad alimentaria como prioridad urgente",
+          "fuente": "Sección Seguridad Alimentaria"
+        },
+        {
+          "tema": "Anticorrupción",
+          "cita": "La corrupción es una empresa criminal tanto o más difícil de combatir que las bandas criminales o las guerrillas y los daños que ocasiona son similares.",
+          "contexto": "Sobre su propuesta anticorrupción",
+          "fuente": "Sección Lucha contra la corrupción"
+        },
+        {
+          "tema": "Identidad política",
+          "cita": "Somos el cambio con esperanza. El cambio que congrega.",
+          "contexto": "Definiendo su propuesta política como alternativa a la polarización",
+          "fuente": "Introducción del Plan de Gobierno"
+        }
+      ],
+      "promesas_vs_realidad": {
+        "aplica": true,
+        "cargo_previo": "Alcalde de Medellín (2004-2007) — Gobernador de Antioquia (2012-2015)",
+        "logros": [
+          "Medellín pasó de ser la ciudad más violenta del mundo a modelo internacional de urbanismo social durante su alcaldía",
+          "Urbanismo social: escaleras eléctricas en comunas, Parque Biblioteca España, Metrocable — reconocidos internacionalmente",
+          "En Antioquia implementó el programa 'Antioquia la más educada' con resultados medibles en cobertura y calidad",
+          "Medellín ganó el premio a la ciudad más innovadora del mundo en 2013 (Urban Land Institute)"
+        ],
+        "criticas": [
+          "En 2018 llegó a segunda vuelta presidencial pero no logró consolidar la coalición necesaria ni articular una campaña competitiva en la recta final",
+          "Fue señalado de inconsistencias en sus alianzas políticas: primero cercano al uribismo, luego distanciado, sin una posición siempre clara",
+          "Su gobierno en Antioquia tuvo cuestionamientos sobre el manejo de algunos contratos, aunque no fue condenado",
+          "La promesa de 'cambio sin polarización' no logró materializarse en resultados electorales concretos en 2018 ni 2022"
+        ],
+        "fuente": "Informes de gestión de la Alcaldía de Medellín y la Gobernación de Antioquia, medios verificables"
+      },
+      "posiciones_test_afinidad": {
+        "economia": {
+          "pregunta": "¿Cuál debería ser el rol del Estado en la economía?",
+          "posicion": "B",
+          "descripcion": "Transformación estructural con Estado activo en CTI, educación y desarrollo productivo. Reforma tributaria progresiva. Ni libre mercado puro ni estatismo: pragmatismo basado en evidencia.",
+          "cita_respaldo": "La economía colombiana no está al servicio de la gente, sino de unos pocos. Nuestro programa tiene como eje la transformación estructural del aparato productivo con educación, ciencia, tecnología e innovación. (Sección Política Económica)"
+        },
+        "seguridad": {
+          "pregunta": "¿Cómo debe enfrentarse el problema de los grupos armados?",
+          "posicion": "B",
+          "descripcion": "Paz negociada con cumplimiento del Acuerdo, sustitución voluntaria y seguridad construida con las comunidades. Sin ofensiva militar como política principal.",
+          "cita_respaldo": "La paz será un factor de cohesión, no de división. La seguridad se construye con la gente, no contra la gente. (Sección Seguridad)"
+        },
+        "medio_ambiente": {
+          "pregunta": "¿Cómo debe Colombia enfrentar el cambio climático?",
+          "posicion": "A",
+          "descripcion": "Transición energética sin nuevas exploraciones de petróleo. El medioambiente como fundamento transversal de cada intervención del gobierno.",
+          "cita_respaldo": "Vamos a empezar a dejar atrás la dependencia del petróleo y el carbón. Continuaremos los avances para llevar la generación de energías renovables al 30% o más. (Sección Política Económica / Transición Energética)"
+        }
+      }
+    }
+  ]
+}
